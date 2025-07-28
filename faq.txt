@@ -1,0 +1,2286 @@
+Here’s a cleaned, structured, and chatbot-ready version of the **FAQ content** for your AI Telegram bot. Each FAQ is presented in **modular Q\&A format**, grouped by category, and designed for **easy retrieval and response**.
+
+---
+
+## 🏥 PUSPEN (Pusat Pemulihan Penagihan Narkotik)
+
+**Q1: What is PUSPEN?**
+A: PUSPEN is a drug rehabilitation centre offering treatment and rehabilitation for certified drug dependents. Admission can be voluntary (Section 8(3)(a)) or court-ordered (Section 6(1)(a)) under the Drug Addicts (R\&P) Act 1983.
+
+**Q2: How to get treatment at PUSPEN voluntarily?**
+A: Visit any PUSPEN or District AADK Office for details on voluntary admission.
+
+**Q3: Who is eligible for PUSPEN services?**
+A: Drug addicts, drug users, drug abusers, and family members affected (co-dependents).
+
+**Q4: Are there any fees for admission to PUSPEN?**
+A: No, admission is free.
+
+**Q5: What types of treatment programs are available at PUSPEN?**
+A: Evidence-based psychosocial programs including:
+
+* Detoxification
+* Physical activity and discipline
+* Psychological support
+* Patriotism
+* Skills & vocational training
+* Religion & spirituality
+* Social/recreational programs
+* Community reintegration
+
+---
+
+## 🏘 Community House
+
+**Q1: What services are offered?**
+A: Guidance, religious programs, advisory services, treatment and rehab, drug prevention activities.
+
+**Q2: Who runs the activities?**
+A: Local community committee, District NADA, peer counsellors.
+
+**Q3: How to contribute or volunteer?**
+A: Contact the District NADA Chief in your area.
+
+**Q4: Can I be part of the Community House committee?**
+A: Yes, if you live in the respective area.
+
+**Q5: Who can use Community House services?**
+A: Individuals with drug issues, the general public, students, workers, families, and local communities.
+
+---
+
+## 🏢 NADA Service Centre
+
+**Q1: What is it?**
+A: A daily activity centre offering drug-related services.
+
+**Q2: Purpose of NADA Service Centre?**
+A: Provide treatment, referrals, counseling, prevention, and support services.
+
+**Q3: What is a Psychosocial Program?**
+A: A program to change addictive behavior, prevent relapse, and restore confidence.
+
+---
+
+## 🔁 Client Integration Centre (CIC)
+
+**Q1: What is CIC?**
+A: A post-PUSPEN facility to support reintegration and skills/job placement.
+
+**Q2: Purpose of CIC?**
+A: Boost recovery, build self-efficacy, and help with employment.
+
+**Q3: What is "residency" in CIC?**
+A: Living in CIC (PIK) for 3–6 months as part of aftercare.
+
+**Q4: What is the psychosocial program?**
+A: Same as above — behavior change, relapse prevention, life skills.
+
+---
+
+## 🚔 Enforcement & Security
+
+**Q1: Will my report be confidential?**
+A: Yes. Your identity is kept confidential.
+
+**Q2: Will the person I report know it's me?**
+A: No. Confidentiality is strictly maintained.
+
+**Q3: Can my son be admitted directly to PUSPEN after I report him?**
+A: Not immediately. AADK must conduct screenings, medical confirmations, and get court approval.
+
+**Q4: Why was my family member released after 14 days of remand?**
+A: AADK can only hold suspects for 14 days unless lab results confirm addiction. Then court orders are required.
+
+**Q5: Can someone under AADK supervision be readmitted to PUSPEN?**
+A: No. Violation of supervision terms may result in imprisonment but not readmission to PUSPEN.
+
+**Q6: Is it safe for me to report drug abuse to AADK?**
+A: Yes. All reports are confidential and protected.
+
+**Q7: Why is my son still on drugs after rehab?**
+A: Addiction is a chronic, relapsing disease. Continuous support and supervision are crucial.
+
+**Q8: Why is a drug-positive suspect sometimes released on bail?**
+A: If the suspect has chronic illness or lab results aren't ready, bail may be granted.
+
+**Q9: Why doesn’t AADK directly admit drug addicts to rehab?**
+A: Due process (screening, lab tests, court approval) is required under the law.
+
+**Q10: Why doesn’t AADK arrest drug dealers?**
+A: AADK handles addiction; PDRM handles trafficking. AADK shares dealer info with PDRM.
+
+**Q11: How long for feedback on a complaint?**
+A: Within 3 working days.
+
+**Q12: Will I be informed of the action taken?**
+A: Yes, you will be notified.
+
+---
+
+## 👥 Antidrugs SKUAD
+
+**Q1: What is it?**
+A: A volunteer group under NADA to carry out anti-drug campaigns and community outreach.
+
+**Q2: What are the duties of SKUAD members?**
+A: Raise awareness, support those affected, promote NADA services.
+
+**Q3: How to join?**
+A: Malaysians aged 18+ can apply via [https://skuad.adk.gov.my](https://skuad.adk.gov.my) or the mobile app.
+
+---
+
+## 🏨 Private Drug Rehabilitation Centre (PPDP)
+
+**Q1: What is it?**
+A: A centre registered under Section 16 to provide private treatment and rehab services.
+
+**Q2: How to apply for gazetting?**
+A: Submit an official application to the State NADA Director.
+
+**Q3: Validity of registration certificate?**
+A: As long as the centre operates and complies with regulations.
+
+**Q4: Grounds for revocation?**
+A: Non-compliance with terms and conditions.
+
+---
+
+## 📚 NADA Research Grant
+
+**Academic Research at NADA**
+
+**Q1: Can I conduct research at NADA centres?**
+A: Only at Cure & Care Clinics, with HQ approval.
+
+**Q2: Procedure to apply?**
+A:
+
+* Submit application with support letter & proposal
+* Apply at least 1 month before
+* Sign agreement if approved
+* If no response in 2 months, it's considered rejected
+* Submit a copy of final report to HQ
+
+**NADA Research Grant**
+
+**Q1: Does NADA offer research grants?**
+A: Yes, for studies on drugs/substance abuse.
+
+**Q2: Who can apply?**
+A: Local higher education institutions.
+
+**Q3: How to apply?**
+A:
+
+* Use the NADA Research Grant Form
+* Submit to:
+  **Director General**
+  **National Anti-Drugs Agency, Ministry of Home Affairs**
+  **Kajang, Selangor**
+  (Attn: Policy, Planning & Research Division)
+
+---
+
+
+Here is a **cleaned and structured version** of the FAQ content for your **AI Telegram bot** covering topics related to **PDRM recruitment, volunteer forces, traffic enforcement, and firearm licensing**.
+
+---
+
+## 🚓 PENGAMBILAN (PDRM Recruitment)
+
+### Jawatan Ditawarkan
+
+* **Inspektor**
+* **Sarjan**
+* **Konstabel**
+* **Konstabel Orang Asli**
+* **Konstabel Sokongan**
+
+### Kelayakan Akademik Minimum
+
+* **Konstabel Sokongan** – PMR
+* **Konstabel** – SPM
+* **Sarjan** – Diploma
+* **Inspektor** – Ijazah
+
+### Syarat Fizikal
+
+* Tinggi minimum: Lelaki 1.63m, Wanita 1.57m (berbeza untuk Orang Asli)
+* Ukuran dada lelaki: 81cm (biasa), 86cm (tarik nafas)
+* Berat minimum: Lelaki 50kg, Wanita 48kg
+* Penglihatan: V/6/9 (tanpa cermin mata kecuali untuk Orang Asli)
+* Sihat & tiada kecacatan pendengaran/penglihatan
+
+### Permohonan Jawatan
+
+* Permohonan melalui **SPA ([www.spa.gov.my](http://www.spa.gov.my))** secara online (dibuka sepanjang tahun).
+* PDRM akan memanggil pemohon jika kekosongan jawatan wujud.
+
+### Semakan Permohonan
+
+* Melalui laman web SPA.
+* **SSO PDRM** untuk calon yang dipanggil ujian fizikal dan temu duga.
+
+### Tempoh Menunggu
+
+* Selepas permohonan: tunggu sehingga 1 tahun.
+* Selepas temu duga: keputusan dalam tempoh 6 bulan.
+
+### Ujian Fizikal & Temu Duga
+
+* Dijalankan di institusi latihan PDRM (1 hari).
+* Ujian termasuk kawad, kecergasan, ukuran fizikal.
+* Persediaan: pakaian formal & sukan, rambut pendek, alat tulis.
+
+### Latihan Asas
+
+* **Inspektor/Sarjan**: 1 tahun (PULAPOL Kuala Lumpur)
+* **Konstabel**: 6 bulan (Muar, Ayer Hitam, Kota Kinabalu, Kuching, Langkawi)
+* **Konstabel Orang Asli**: 6 bulan (Ulu Kinta)
+
+### Penempatan Lepas Latihan
+
+* Berdasarkan keperluan dan kekosongan seluruh negara.
+
+### Pertanyaan Lanjut
+
+* Hubungi **Unit Pengambilan, Bukit Aman** di **03-22668350/8351**
+
+---
+
+## 👮‍♂️ PASUKAN SUKARELAWAN POLIS (PVR)
+
+### Apa Itu PVR?
+
+* Pasukan Sukarelawan Simpanan Polis Diraja Malaysia ditubuhkan secara rasmi pada **1 Julai 1957**.
+
+### Permohonan
+
+* Dilakukan secara online di **[www.pdrm.gov.my](http://www.pdrm.gov.my)**
+* Terbuka kepada:
+
+  * **Inspektor** (dari Kor SUKSIS)
+  * **Konstabel** (orang awam berkelayakan)
+
+### Syarat Umum
+
+* Warganegara Malaysia, umur 18–45 tahun
+* Akademik:
+
+  * **Inspektor** – Ijazah/Diploma + Sijil SUKSIS
+  * **Konstabel** – Lulus SPM/setaraf
+
+### Latihan & Elaun
+
+* Latihan: 6 bulan (minima 16 jam sebulan, maksima 48 jam)
+* Elaun:
+
+  * Pegawai Kanan: RM7.80/jam
+  * Konstabel – Sub Inspektor: RM6.00/jam
+
+### Bentuk Tugas PVR
+
+* Bit, rondaan, trafik, pentadbiran, bilik gerakan, jaga aman
+
+### Kuasa PVR
+
+* **Setara dengan pegawai PDRM semasa bertugas** (Seksyen 45, Akta Polis 1967)
+
+### Perbezaan Uniform
+
+* Tulisan di bahu: “Sukarelawan Polis”
+* Nombor ID: SPxxxxxx vs Polis Reguler (6 digit)
+
+---
+
+## 🚦 TRAFIK
+
+### Jenis Saman
+
+* **POL 170A**: Kesalahan tanpa kehadiran pemandu (e.g. perangkap laju)
+* **POL 257**: Dikeluarkan terus kepada pesalah dan ditandatangani
+
+### Semakan Saman
+
+* **SMS**: Taip `POLIS SAMAN <IC/Kenderaan>` ke 15888
+* **Portal**: [www.myeg.com.my](http://www.myeg.com.my), [www.rilek.com.my](http://www.rilek.com.my)
+* **Kaunter**: COPS, JPJ, Pejabat Pos, ATM Maybank
+
+### Pembayaran
+
+* Tunai/kad di kaunter COPS, JPJ, mall tertentu
+* Online: MyEG, Rilek, eServices
+
+### Isu Saman Salah
+
+* Pergi ke balai trafik dengan dokumen & bukti
+* Jika nombor pendaftaran palsu – buat laporan polis
+
+### Rayuan Diskaun
+
+* **Tidak perlu rayuan**: Sistem automatik berdasarkan tarikh saman
+
+### Jika Pemandu Bukan Pemilik
+
+* Pemilik mesti maklumkan identiti pemandu dalam **7 hari**
+
+---
+
+## 🔫 LESEN SENJATA API
+
+### Permohonan Lesen
+
+* Borang POL128/PIL125 di [www.rmp.gov.my](http://www.rmp.gov.my) atau di IPD
+
+### Syarat Pemohon
+
+* Warganegara, 18 tahun ke atas
+* Sihat fizikal/mental, tiada kecacatan atau rekod jenayah
+
+### Jenis Senjata
+
+* Semua jenis senjata api, termasuk tiruan
+
+### Proses Permohonan
+
+1. Hantar borang ke IPD
+2. Proses oleh IPK → Bukit Aman
+3. Kelulusan oleh Ketua Polis Negara/Negeri
+
+### Tempoh Proses
+
+* Sehingga **180 hari bekerja**
+
+### Yuran
+
+* **Tiada bayaran dikenakan**
+
+---
+
+
+
+Here is a **cleaned and chatbot-optimized version** of the FAQ related to **Agensi Penguatkuasaan Maritim Malaysia (APMM)** for your **Telegram AI bot**, grouped by theme for better modular response and retrieval:
+
+---
+
+## 🇲🇾 APMM (Agensi Penguatkuasaan Maritim Malaysia)
+
+### 🧑‍✈️ Penyertaan & Pengambilan
+
+**Q1: Bagaimanakah cara menyertai APMM?**
+A: Permohonan dilakukan melalui Suruhanjaya Perkhidmatan Awam (SPA) di laman web [www.spa.gov.my](http://www.spa.gov.my) menggunakan borang SPA8i. APMM tidak membuat pengambilan terus.
+
+**Q2: Adakah bekas tentera/polis boleh memohon?**
+A: Ya. Bekas TLDM, TUDM, dan PDRM boleh memohon jawatan kontrak seperti:
+
+* Leftenan Komander Maritim Gred X20
+* Leftenan Maritim Gred X17
+  Syarat: Markah LNPT ≥ 80% selama 3 tahun, tiada rekod tatatertib, keutamaan kepada calon berpengalaman siasatan, pendakwaan, atau sebagai Pegawai Pemerintah Kapal/Pilot.
+
+**Q3: Apakah jawatan dan gaji yang ditawarkan?**
+A: Jawatan dan tangga gaji:
+
+* Pegawai Penguatkuasa Maritim Gred T13
+* Bintara Muda Maritim Gred T5
+* Laskar Kelas II Maritim Gred T1
+
+---
+
+### 🚨 Peranan & Tanggungjawab
+
+**Q4: Apakah peranan utama APMM?**
+A: Menguatkuasakan undang-undang dan menyelamatkan nyawa serta harta benda di laut untuk kesejahteraan perairan negara.
+
+**Q5: Apakah tanggungjawab khusus Maritim Malaysia?**
+A:
+
+1. Menguatkuasa undang-undang & keselamatan laut
+2. Mencari dan menyelamat (SAR)
+3. Mencegah jenayah maritim
+4. Menyokong pasukan keselamatan lain
+5. Pengawasan udara dan pantai
+6. Perkhidmatan pelantar & logistik agensi lain
+7. Latihan pegawai maritim
+8. Pencegahan pencemaran laut
+9. Menyekat lanun
+10. Menyekat pengedaran dadah
+
+---
+
+### 🗺️ Kawasan Pentadbiran & Operasi
+
+**Q6: Kawasan operasi APMM?**
+A: Kawasan operasi adalah Zon Maritim Malaysia.
+
+**Q7: Di manakah pejabat APMM di Malaysia?**
+A: 10 pejabat negeri:
+
+* Perlis/Kedah
+* Perak/Pulau Pinang
+* Pahang
+* Terengganu
+* Kelantan
+* Selangor
+* Johor
+* Melaka/N. Sembilan
+* Sarawak
+* Sabah
+  Juga terdapat pangkalan dan pejabat daerah di sepanjang pantai.
+
+**Q8: Kawasan pentadbiran APMM?**
+A: Dibahagi kepada 5 wilayah & 18 daerah (DM1–DM18):
+
+* Wilayah Utara: DM1–DM3
+* Wilayah Selatan: DM4–DM7
+* Wilayah Timur: DM8–DM10
+* Wilayah Sarawak: DM11–DM13
+* Wilayah Sabah: DM14–DM18
+
+---
+
+### ⚓ Struktur Organisasi
+
+**Q9: Apakah sistem pangkat di APMM?**
+A: Senarai pangkat:
+
+* Laksamana Maritim
+* Laksamana Madya Maritim
+* Laksamana Muda Maritim
+* Laksamana Pertama
+* Kepten Maritim
+* Komander Maritim
+* Leftenan Komander Maritim
+* Leftenan Madya Maritim
+* Leftenan Maritim
+* Leftenan Muda Maritim
+* Pegawai Waran I & II
+* Bintara Kanan & Muda
+* Laskar Kanan
+* Laskar Kelas I & II
+
+**Q10: Berapa jenis kapal dimiliki oleh APMM?**
+A: 10 jenis kapal dan bot:
+
+* Kelas Marlin
+* Kelas Sipadan
+* Kelas Langkawi
+* Kelas Malawali
+* Kelas Gagah
+* Kelas Penggalang
+* Kelas Peninjau
+* Kelas Pelindung
+* Kelas Penyelamat
+* Kelas Kilat
+
+---
+
+### 🛡️ Strategi & Visi
+
+**Q11: Apakah strategi APMM ke arah menjadi agensi maritim terbaik dunia?**
+A: Strategi:
+
+* Maritime Domain Awareness
+* Visible Deterrence
+* Swift Response
+* Ever Present
+* Forward Reaching
+* Community Maritime Cooperation
+
+**Q12: Mengapakah APMM ditubuhkan?**
+A: Untuk menyatukan kuasa penguatkuasaan maritim yang dahulunya dijalankan oleh 8 agensi berasingan:
+
+* TLDM
+* TUDM
+* Polis Marin
+* KDRM
+* Jabatan Laut
+* Jabatan Perikanan
+* JAS
+* Imigresen
+  Penubuhan APMM mengelak pertindihan tugas, jimat sumber dan tingkat koordinasi operasi laut.
+
+---
+
+
+
+Berikut adalah versi **dibersih, distruktur dan chatbot-friendly** untuk soalan lazim berkaitan **pendaftaran pertubuhan di bawah Jabatan Pendaftaran Pertubuhan Malaysia (JPPM)**, sesuai untuk integrasi ke dalam bot Telegram FAQ anda:
+
+---
+
+## 🏢 PENDAFTARAN PERTUBUHAN (JPPM)
+
+### 1. **Apakah jenis pertubuhan yang perlu didaftarkan?**
+
+📌 **Jawapan:**
+Semua pergerakan/pertubuhan/persatuan yang terdiri daripada **minimum 7 orang** perlu didaftarkan, tidak kira tujuannya (sementara atau kekal).
+❗ **Pengecualian:** Jika pertubuhan itu mempunyai akta khas seperti:
+
+* **Pertubuhan belia** (di bawah Akta Pertubuhan Belia dan Pembangunan Belia 1997)
+* Pertubuhan lain di bawah akta khusus
+  ... maka ia **tidak perlu berdaftar** di bawah Akta Pertubuhan 1966.
+
+---
+
+### 2. **Bagaimanakah cara untuk mendaftar semula cawangan pertubuhan yang telah dibatalkan di bawah Seksyen 13(1)(d)?**
+
+📌 **Jawapan:**
+Cawangan yang dibatalkan boleh didaftarkan semula jika:
+
+* **Mematuhi Seksyen 14(1):** Mengemukakan penyata tahunan yang tertunggak
+* ATAU
+* **Pendaftar berpuas hati** bahawa perintah tersebut tidak boleh dipenuhi.
+
+Jika lulus, pertubuhan boleh memohon semula **dengan nama yang berbeza** daripada nama asal seperti permohonan baru.
+
+---
+
+### 3. **Apakah yang perlu dilakukan apabila berlaku pertukaran Setiausaha?**
+
+📌 **Jawapan:**
+Setiausaha baru perlu mengisi **Pembaharuan Setiausaha** melalui sistem **eROSES**, langkah-langkah:
+
+**Langkah-langkah:**
+
+1. Klik: `PERTUBUHAN`
+2. Klik: `PEMBAHARUAN SETIAUSAHA`
+3. Klik: `DAFTAR PEMBAHARUAN SETIAUSAHA`
+
+**Maklumat perlu diisi:**
+
+* No. PPM pertubuhan
+* Maklumat peribadi setiausaha baru
+* Sebab pertukaran (contoh: AGM, letak jawatan)
+* Maklumat setiausaha lama
+* Pengakuan
+
+📌 *Nota:* Hanya selepas permohonan ini **diluluskan oleh JPPM Negeri**, barulah setiausaha baru boleh menghantar Penyata Tahunan atau mengemaskini data pertubuhan.
+
+---
+
+### 4. **Bolehkah permohonan pendaftaran yang ditolak digunakan semula?**
+
+📌 **Jawapan:**
+**Tidak boleh.** Permohonan yang ditolak tidak boleh dipinda atau dikitar semula.
+Jika ingin memohon semula:
+
+* Buat permohonan baru dari awal
+* Isikan semula maklumat pertubuhan, AJK, perlembagaan
+* Bayar **yuran pendaftaran RM30.00**
+
+---
+
+### 5. **Apa itu alamat berdaftar dan tempat urusan pertubuhan?**
+
+📌 **Jawapan:**
+
+* **Alamat Berdaftar (Alamat Pos / Surat-menyurat):**
+  Alamat rasmi untuk urusan surat-menyurat. Mesti boleh dicapai oleh perkhidmatan pos.
+
+* **Tempat Urusan Pertubuhan:**
+  Tempat sebenar pertubuhan beroperasi, contohnya tempat mesyuarat, simpan dokumen atau aktiviti rasmi lain.
+
+---
+
+
+
+
+Berikut ialah versi **dibersih dan disusun mengikut kategori** bagi **FAQ berkaitan Kad Pengenalan & Kelahiran (JPN)** untuk kegunaan **Telegram bot AI** anda:
+
+---
+
+## 🆔 KAD PENGENALAN (MyKad)
+
+### 1. **Bilakah saya perlu tukar kad pengenalan gantian selepas umur 12 tahun?**
+
+📌 **Jawapan:**
+Tukar semula MyKad **apabila mencapai umur 18 tahun**. Jika ditukar dalam umur **18–25 tahun**, tiada denda dikenakan.
+
+---
+
+### 2. **Saya sudah berumur 25 tahun tetapi belum memiliki MyKad. Apa perlu dilakukan?**
+
+📌 **Jawapan:**
+Anda perlu ke JPN untuk permohonan daftar lewat kad pengenalan. **Pemohon & penganjur** perlu hadir dengan dokumen:
+
+* Sijil Lahir/Borang W/Borang Anak Angkat
+* Permit Masuk/Borang Pengesahan Warganegara (jika berkaitan)
+* Kad Pengenalan Penganjur
+
+---
+
+### 3. **Saya warga asing dengan permit masuk. Adakah saya boleh mohon MyKad?**
+
+📌 **Jawapan:**
+Layak mohon **MyKad Pemastautin Tetap (merah)** di JPN Putrajaya atau Ibu Pejabat Negeri.
+**Bawa:**
+
+* Permit Masuk & Pasport (asal dan salinan)
+* Bayaran: **RM40.00**
+
+---
+
+### 4. **Jika cip MyKad rosak, adakah saya perlu bayar?**
+
+📌 **Jawapan:**
+
+* **Percuma** jika rosak dalam 1 tahun (bukan salah sendiri)
+* **RM10.00** jika lebih 1 tahun
+
+---
+
+### 5. **Berapakah bayaran kehilangan MyKad?**
+
+📌 **Jawapan:**
+Bergantung kepada bilangan kehilangan. Lihat Jadual Bayaran (boleh ditambah ke sistem bot jika ada data penuh).
+
+---
+
+### 6. **Berapa lama MyKad siap?**
+
+📌 **Jawapan:**
+
+* **30 minit:** Jika ambil di Ibu Pejabat JPN yang ada mesin cetak
+* **5 hari bekerja:** Jika ambil di cawangan Semenanjung
+* **7 hari bekerja:** Jika ambil di Sabah/Sarawak/Labuan
+  *Nota: Hanya untuk Warganegara & permohonan tiada masalah*
+
+---
+
+### 7. **Bolehkah tukar alamat tanpa tukar MyKad?**
+
+📌 **Jawapan:**
+Ya, boleh. Hanya kemas kini alamat tanpa tukar fizikal MyKad. **Tiada bayaran dikenakan.**
+
+---
+
+### 8. **Adakah JPN terima pembayaran selain tunai?**
+
+📌 **Jawapan:**
+Ya. JPN terima bayaran melalui:
+
+* Kad Kredit
+* Kad Debit
+* MEPS
+
+---
+
+### 9. **Saya hadapi masalah cap jari pada cip. Apa perlu buat?**
+
+📌 **Jawapan:**
+Datang ke JPN terdekat untuk **permohonan cetakan kandungan cip**.
+
+---
+
+### 10. **Saya kehilangan MyKad kali kedua. Apa perlu saya lakukan?**
+
+📌 **Jawapan:**
+Hadir ke JPN dengan **laporan polis** yang menyatakan sebab kehilangan.
+
+---
+
+### 11. **Bagaimana mohon MyKad secara temujanji?**
+
+📌 **Jawapan:**
+Buat temujanji di:
+🔗 [https://mytemujanji.jpn.gov.my](https://mytemujanji.jpn.gov.my)
+
+---
+
+## 👶 KELAHIRAN
+
+### 12. **Bagaimana dapatkan salinan Sijil Kelahiran yang hilang/rosak?**
+
+📌 **Jawapan:**
+Hadir ke JPN dengan:
+
+* MyKad/dokumen pengenalan (asal & salinan)
+* Isi borang JPN.LM12
+* Bayaran: **RM5.00 per salinan**
+
+---
+
+### 13. **Siapa boleh lapor kelahiran bayi?**
+
+📌 **Jawapan:**
+
+* Bapa atau Ibu bayi
+* Orang yang tinggal serumah
+* Saksi kelahiran
+* Penjaga bayi
+
+---
+
+### 14. **Kanak-kanak tiada Sijil Lahir & umur >60 hari – apa perlu buat?**
+
+📌 **Jawapan:**
+Boleh buat **Permohonan Daftar Lewat Kelahiran** di mana-mana JPN dalam Semenanjung jika ada bukti lahir di sana.
+
+---
+
+### 15. **Jika anak lahir luar nikah (bukan Islam), adakah nama bapa dicatat?**
+
+📌 **Jawapan:**
+Nama bapa **tidak dicatat** melainkan ibu dan lelaki tersebut **buat permohonan bersama** dan **tandatangan daftar kelahiran bersama**.
+
+---
+
+### 16. **Bolehkah tukar nama anak dalam Sijil Kelahiran?**
+
+📌 **Jawapan:**
+Boleh, jika umur anak **belum cecah 1 tahun**, melalui **Permohonan Pembetulan Maklumat**.
+
+---
+
+### 17. **Ingin bertanya lebih lanjut?**
+
+📌 **Hubungi JPN:**
+
+* 📞 Tel: 03-8000 8000
+* 📠 Faks: 03-8880 8288
+* 📧 Emel: `pro@jpn.gov.my`
+* 🌐 [e-Pertanyaan (SISPAA JPN)](https://jpn.spab.gov.my)
+
+---
+
+
+
+Berikut ialah versi **dibersih dan distruktur** FAQ untuk **Keanggotaan, Latihan, Operasi dan Aduan Pasukan RELA (Jabatan Sukarelawan Malaysia)**, sesuai digunakan dalam sistem **chatbot Telegram** anda:
+
+---
+
+## 👥 KEANGGOTAAN RELA
+
+### 1. **Apakah syarat untuk mendaftar sebagai anggota RELA?**
+
+📌 **Jawapan:**
+
+* Warganegara Malaysia (mempunyai MyKad)
+* Berumur 18 tahun ke atas
+* Sihat tubuh badan
+* Tidak menganggotai pasukan sukarelawan lain di bawah undang-undang bertulis
+* Bukan anggota pasukan keselamatan di bawah undang-undang bertulis
+* Tiada rekod jenayah
+
+---
+
+### 2. **Berapa lama tempoh sah keahlian RELA?**
+
+📌 **Jawapan:**
+
+* Sah selama **5 tahun** dari tarikh pendaftaran.
+* Ketua Pengarah RELA boleh **melanjutkan** tempoh.
+* Jika tidak dilanjutkan, nama akan dimasukkan dalam **senarai simpan**.
+
+---
+
+## 🎓 LATIHAN RELA
+
+### 3. **Adakah saya perlu menghadiri latihan/kursus selepas menjadi ahli?**
+
+📌 **Jawapan:**
+
+* Ya, semua ahli baharu akan ikuti **Kursus Pengenalan RELA selama 2 hari** secara setempat (in-situ).
+* Ahli juga boleh memohon untuk ikuti **kursus lanjutan** di Pusat Latihan Wilayah RELA.
+
+---
+
+### 4. **Bolehkah saya memohon cuti untuk menghadiri latihan RELA?**
+
+📌 **Jawapan:**
+
+* **Penjawat awam** boleh mohon cuti tanpa rekod berdasarkan Perintah Am (Bab C).
+* **Pekerja swasta** perlu dapatkan kebenaran majikan dengan **surat sokongan RELA**.
+
+---
+
+### 5. **Apakah kursus yang disediakan oleh RELA?**
+
+📌 **Jawapan:**
+
+* Terdapat **lebih 20 jenis kursus** diadakan di Pusat Latihan RELA Wilayah.
+* **Jadual/takwim latihan** boleh dirujuk di Pejabat RELA Daerah.
+* **Percuma** untuk semua anggota RELA.
+
+---
+
+### 6. **Di mana latihan diadakan?**
+
+📌 **Jawapan:**
+
+* **Akademi Latihan RELA Malaysia (ALARM)** – Melaka
+* **PLRWU** – Sungai Petani, Kedah
+* **PLRWT** – Hulu Terengganu, Terengganu
+* **PLRNS** – Tuaran, Kota Kinabalu, Sabah
+* **Pejabat RELA Sarawak** – Lokasi ditentukan oleh Bahagian Latihan Negeri
+
+---
+
+## 🛡️ OPERASI & PERLINDUNGAN
+
+### 7. **Apakah perlindungan sekiranya berlaku kemalangan semasa bertugas?**
+
+📌 **Jawapan:**
+
+* Disaran menyertai **Insurans Berkelompok RELA** (RM20/tahun)
+* Layak rawatan **Kelas Dua hospital kerajaan** jika kemalangan semasa bertugas
+* Pampasan boleh dipertimbangkan melalui **Tabung Amanah Perwira Negara** jika anggota terkorban
+
+---
+
+### 8. **Apakah kebajikan lain untuk anggota RELA?**
+
+📌 **Jawapan:**
+
+* Rawatan hospital kelas dua semasa bertugas
+* Caruman insurans berkelompok
+* Imbuhan dari **Tabung Aamal Jariah RELA**
+* Insurans **percuma untuk 100,000 anggota aktif**
+
+---
+
+## 📣 ADUAN SALAHLAKU
+
+### 9. **Bolehkah saya buat aduan tanpa dedahkan identiti saya?**
+
+📌 **Jawapan:**
+Ya. Asalkan aduan mempunyai **asas yang kukuh** untuk disiasat.
+
+---
+
+### 10. **Maklumat diperlukan dalam aduan:**
+
+📌 **Jawapan:**
+
+* Jenis kesalahan
+* Identiti pegawai/anggota (nama, jawatan, lokasi)
+* Tarikh, masa & lokasi kejadian
+* Bukti tambahan (gambar, dokumen, saksi)
+
+---
+
+### 11. **Saluran membuat aduan:**
+
+📌 **Jawapan:**
+
+* 📬 **Surat:**
+  Jabatan Sukarelawan Malaysia (RELA), KDN
+  Blok D9, Kompleks D, Putrajaya
+  (UP: Unit Integriti)
+
+* 🌐 **Portal ISPAA MOHA:**
+  [http://moha.spab.gov.my](http://moha.spab.gov.my)
+
+* 🔗 **Sistem Aduan Integriti KDN:**
+  [https://online.moha.gov.my/integriti/public/](https://online.moha.gov.my/integriti/public/)
+
+* 📧 **Email:** `pro_rela@moha.gov.my`
+
+---
+
+### 12. **Apakah tindakan selepas aduan dibuat?**
+
+📌 **Jawapan:**
+
+* RELA akan hantar **makluman penerimaan**
+* Sahkan & sahkan aduan
+* Keputusan aduan dimaklumkan melalui alamat atau emel
+
+---
+
+### 13. **Adakah identiti saya akan dilindungi?**
+
+📌 **Jawapan:**
+Ya. Identiti pengadu **akan dirahsiakan**.
+
+---
+
+
+
+Soalan Lazim Jabatan Sukarelawan Malaysia (RELA)
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+ 
+
+Jabatan Sukarelawan Malaysia (RELA)
+Keanggotaan
+1 	Saya ingin menjadi anggota RELA. Apakah syarat-syaratnya?
+ 	
+Jawapan :
+
+a. Warganegara Malaysia (mempunyai MyKad)
+b. Berumur 18 tahun ke atas
+c. Sihat tubuh badan
+d. Tidak menganggotai mana-mana pasukan sukarelawan lain yang ditubuhkan di bawah undang-undang bertulis
+e. Tiada rekod jenayah
+
+2 	Di manakah boleh saya dapatkan borang permohonan ?
+ 	
+Jawapan :
+
+Borang permohonan boleh di dapati di semua Pejabat RELA Daerah, Negeri atau melalui laman web rasmi myrela.moha.gov.my. Semua permohonan mestilah dihantar ke Pejabat RELA daerah berhampiran beserta dua (2) keping gambar berukuran passport dan satu salinan kad pengenalan. Semua permohonan yang layak akan diberi sekeping kad keanggotaan RELA.
+
+3 	Apakah dikenakan sebarang bayaran untuk menjadi anggota RELA?
+ 	Jawapan :
+Pendaftaran anggota RELA adalah percuma.
+
+4 	Apakah saya diberikan elaun sekiranya saya menjadi anggota RELA ?
+ 	
+Jawapan :
+
+RELA ditubuhkan atas semangat kesukarelaan. Itulah menjadi asas kekuatan pasukan RELA sehingga hari ni. Walaubagaimanapun, anggota RELA akan dibayar elaun sekiranya mereka terlibat dengan penugasan dan tugasan kawalan samada di peringkat daerah atau negeri. Bayaran elaun adalah tertakluk kepada kadar bayaran elaun semasa jabatan.
+
+5 	Adakah saya akan diberikan pakaian seragam ?
+ 	
+Jawapan :
+
+Pakaian Operasi Digital (POD) akan diberikan secara percuma kepada semua anggota RELA. Sila berhubung dengan Pejabat RELA Daerah berdekatan anda untuk maklumat lanjut.
+
+6 	Saya dengar dengan menjadi anggota RELA , kita akan diberikan senapang patah ?
+ 	
+Jawapan :
+
+Pemilikan senjata tidak dianugerahkan kepada semua anggota. Permohonan seseorang anggota RELA bagi memiliki senjata adalah tertakluk kepada pertimbangan dan sokongan dari Pegawai RELA Daerah berkaitan dan seseorang hendaklah melepasi syarat-syarat yang ditetapkan oleh jabatan. Namun begitu, pihak Polis mempunyai kuasa mutlak untuk meluluskan sesuatu permohonan itu.
+
+7 	Adakah saya berpeluang dinaikkan pangkat dalam pasukan RELA ?
+ 	
+Jawapan :
+
+Semua anggota RELA berpotensi untuk dinaikan pangkat. Pertimbangan untuk kenaikkan pangkat ini dinilai oleh Pegawai RELA Daerah berdasarkan komitmen, kerjasama, sumbangan, keaktifan serta prestasi seseorang anggota itu. Tahap tertinggi yang boleh disandang oleh seorang anggota RELA adalah sebagai Ketua Perhubungan RELA Kawasan (KPRK). Selain itu, mereka mesti menghadiri kursus-kursus yang ditetapkan bagi sesuatu jawatan itu sebelum dipertimbangkan untuk kenaikan pangkat.
+
+8 	Saya seorang wanita. Sesuai kah saya menjadi anggota RELA ?
+ 	
+Jawapan :
+
+Keanggotaan RELA adalah terbuka kepada semua rakyat Malaysia yang berumur 18 tahun ke atas, tidak menganggotai mana-mana pasukan sukarelawan yang lain, sihat tubuh badan dan tiada rekod jenayah.
+
+9 	Apakah keistimewaan jika menjadi seorang anggota RELA ?
+ 	
+Jawapan :
+
+a. Caj rawatan dan kemudahan wad percuma bagi anggota-anggota yang terlibat kemalangan semasa bertugas
+b. Perlindungan insurans sekiranya terlibat kemalangan ketika bertugas
+c. Latihan percuma di pusat-pusat latihan
+d. Elaun latihan dan bertugas mengikut kadar bayaran elaun semasa jabatan
+e. Pakaian seragam percuma
+f. Keahlian percuma
+
+Latihan
+ 1 	Adakah saya perlu menjalani latihan atau kursus ?
+ 	
+Jawapan :
+
+Semua anggota RELA berpeluang mengikuti Kursus Pengenalan selama dua (2) hari yang dianjurkan oleh Pejabat RELA Daerah. Kursus ini akan mendedahkan seseorang anggota RELA itu tentang tugas dan tanggungjawab RELA masa kini. Anggota-anggota RELA boleh memohon untuk mengikuti kursus-kursus lanjutan di mana-mana Pusat Latihan RELA seluruh Malaysia.
+
+2 	Bolehkah saya mendapat cuti sekiranya saya ingin mengikuti latihan atau tugasan yang dianjurkan oleh RELA ?
+ 	
+Jawapan :
+
+Ya, majikan hendakah memberikan cuti sekiranya mana-mana anggota dipanggil untuk menjalani latihan. Mengikut Undang-undang Malaysia, Akta Pasukan Sukarelawan Malaysia (Akta 752), Seksyen 11 (1) Tiap-tiap majikan hendaklah, jika mana-mana orang dalam pengajiannya yang merupakan seorang anggota RELA dipanggil untuk menjalani latihan di bawah Akta ini, memberi orang itu apa-apa cuti selama tempoh latihan itu untuk membolehkan orang itu menjalani latihan.
+
+3 	Apakah kursus-kursus yang disediakan dalam pasukan RELA ?
+ 	
+Jawapan :
+
+RELA menyediakan pelbagai kursus kepada anggota –anggota RELA bagi mempersiapkan anggota dengan pengetahuan dan kemahiran yang bersesuaian dengan kehendak jabatan. Sila rujuk di Pejabat RELA Daerah berhampiran bagi mengetahui kursus-kursus RELA yang terkini. Semua kursus ini adalah percuma kepada anggota RELA.
+
+4 	Di manakah kursus tersebut diadakan ?
+ 	
+Jawapan :
+
+Semua latihan dan kursus akan diadakan di Pusat Latihan RELA seluruh Malaysia seperti di Bukit Selambau, Kedah, di Kuala Berang, Hulu Terengganu, di Sungai Udang, Melaka dan di Tuaran, Sabah. Manakala bagi Sarawak, latihan akan diadakan di tempat-tempat yang ditentukan oleh Bahagian Latihan negeri berkenaan kerana pusat latihan bagi negeri ini masih dalam peringkat pembinaan.
+
+Operasi
+1 	Apakah jaminan jika berlaku kemalangan ke atas seseorang anggota RELA ?
+ 	
+Jawapan :
+
+Seseorang anggota RELA itu disarankan agar mencarum dalam Insuran Berkelompok yang diperkenalkan oleh RELA dengan kadar caruman sebanyak RM 40.00 setahun bagi setiap individu. Insuran ini memastikan seseorang anggota RELA itu mendapat perlindungan setiap masa. Selain tu, seseorang anggota RELA itu layak mendapat layanan Kelas Dua di mana-mana hospital kerajaan jika mendapat kemalangan ketika bertugas. Kerajaan juga akan memberi pertimbangan untuk membayar pampasan di bawah Tabung Amanah Perwira Negara jika seseorang anggota RELA terkorban ketika menjalankan tugas untuk negara.
+
+2 	Apakah kebajikan yang disediakan bagi seseorang anggota RELA.
+ 	Jawapan :
+
+Kebajikan setiap anggota RELA akan diberikan keutamaan. Setiap anggota RELA akan mendapat kelayakan rawatan Kelas Dua di mana-mana hospital kerajaan sekiranya mengalami musibah ketika bertugas. Mereka juga berpeluang mencarum dalam insurans berkelompok yang disyorkan oleh RELA. Selain itu, mereka mendapat sedikit imbuhan dari Tabung Amal Jariah RELA berdasarkan jenis musibah yang dialami. Kerajaan juga telah bersetuju untuk memberikan insurans percuma kepada 100,000 anggota RELA yang aktif diseluruh negara sebagai insentif kepada sumbangan mereka. Bagi anggota RELA yang terkorban ketika bertugas, pertimbangan boleh dilakukan untuk membolehkan mereka mendapat pampasan dari Tabung Amanah Perwira Negara.
+
+
+
+
+
+
+
+Soalan Lazim Keselamatan
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Bahagian Keselamatan
+Piroteknik
+1 	Siapakah yang boleh memohon?
+ 	Jawapan :
+
+Syarikat yang pernah memperoleh kelulusan dari Kementerian serta mendapat surat lantikan sebagai kontraktor.
+2 	Adakah ajensi kerajaan lain berperanan di dalam permohonan untuk mengadakan pertunjukan piroteknik?
+ 	Jawapan :
+
+Kelulusan Kementerian merupakan keputusan dasar dan permohonan adalah tertakluk kepada arahan-arahan teknikal semasa pembakaran daripada agensi lain seperti PDRM (security), Bomba (safety) dan Jabatan Penerbangan Awam (laluan udara).
+3 	Siapakah yang layak untuk dilantik sebagai pakar piroteknik?
+ 	Jawapan :
+
+Individu perlu rakyat Malaysia, mempunyai sijil kelayakan pakar piroteknik, tiada rekod jenayah dan bukan anggota pasukan keselamatan atau mana-mana pasukan beruniform Malaysia yang masih berkhidmat.
+4 	Bolehkah saya memohon untuk mendapat lesen bagi mengedar atau menjual bahan letupan jenis piroteknik?
+ 	Jawapan :
+
+Kementerian dan PDRM tidak mengeluarkan sebarang lesen bagi mengedar atau menjual bahan letupan jenis piroteknik. Bahan letupan jenis ini (atau lebih dikenali sebagai bunga api atau mercun) yang dibenar untuk diimport dan dijual adalah dari jenama 'Happy Boom' dan 'Pop-pop'. Bahan letupan lain adalah diharamkan dan pembakaran hanya dibenar sekiranya mendapat kelulusan dari Menteri Dalam Negeri.
+5 	Apakah kesilapan biasa yang dilakukan oleh pemohon?
+ 	Jawapan :
+
+a. Tidak melantik syarikat yang berkelayakan untuk mengadakan pertunjukan piroteknik; b. Melantik juruletup dari kalangan anggota pasukan beruniform atau individu yang dilarang atau tidak berkelayakan untuk membuat pembakaran bahan piroteknik; c. Menggunakan bahan letupan yang tidak selamat atau luar tempoh; d. Memohon untuk mengadakan pertunjukan piroteknik bagi majlis yang dikategori sebagai dilarang untuk membakar bahan tersebut; e. Mengemukakan permohonan yang melewati tempoh yang ditetapkan oleh Kementerian; dan f. Mengemukakan butiran pengurus majlis (event organizer) dan bukan penganjur utama (main organizer);
+Senjata Api
+1 	Apakah dokumen-dokumen sokongan yang perlu dikemukakan bagi mengemaskinikan pengkalan maklumat Kementerian?
+ 	Jawapan :
+
+1. Dokumen am adalah butiran peribadi perayu (alamat terkini, nombor telefon; dan 2. Dokumen khusus yang boleh dikemukakan bergantung kepada tujuan pemilikan iaitu: - - Mencegah musuh tanaman : pemilikan tanah, pemberian kuasa penjagaan tanah, kerosakan terhadap tanaman, program penanaman semula, kepelbagaian dan jenis tanaman - Menjaga keselamatan diri dan harta benda : penyata kewangan syarikat dan peribadi yang terkini, salinan aduan kepada polis mengenai ancaman - Bersukan : sijil penyertaan di mana-mana kejohanan di peringkat tempatan atau antarabangsa mewakili kelab, negeri atau negara
+2 	Bolehkah saya mengemukakan permohonan untuk memiliki senjata terus kepada Kementerian?
+ 	Jawapan :
+
+Tidak. Bidang kuasa Kementerian adalah hanya untuk memeroses rayuan hanya setelah permohonan ditolak oleh pihak PDRM.
+3 	Bolehkah Kementerian mengeluarkan lesen memiliki senjatapi?
+ 	Jawapan :
+
+Tidak. Kementerian hanya mengeluarkan keputusan terhadap rayuan pemilikan senjatapi. Lesen pemilikan dikeluarkan oleh PDRM.
+4 	Apakah yang saya perlu buat untuk menyemak status rayuan saya?
+ 	Jawapan :
+
+Tuan boleh menghubungi Kementerian pada talian telefon 03-88868546 / 8541 dan menyatakan nombor fail kepada petugas. Tuan juga boleh mengirim surat kepada Kementerian atau hadir sendiri ke Kementerian setelah membuat temujanji. Tuan tidak boleh melantik wakil bagi urusan rayuan bagi mengelakkan kes-kes penipuan dan salah guna kuasa.
+5 	Apakah yang perlu saya buat setelah menerima surat kelulusan dari Kementerian?
+ 	Jawapan :
+
+Perayu perlu merujuk kepada Ibu Pejabat Polis Daerah yang bertanggungjawab dalam tempoh lima (5) minggu daripada tarikh surat kelulusan tersebut.
+6 	Bagaimana sekiranya saya ingin menambah syarat kepada lesen saya?
+ 	Jawapan :
+
+Bagi pemilik lesen yang menerima kelulusan dari PDRM maka permohonan untuk menambah syarat boleh dibuat kepada Ibu Pejabat PDRM Bukit Aman. Sekiranya kelulusan pemilikan senjatapi diperolehi dari Kementerian, maka pemilik lesen boleh mengemukakan permohonan terus kepada Kementerian menerusi Bahagian Keselamatan dan Ketenteraman Awam.
+7 	Bolehkah saya merayu terhadap keputusan Menteri untuk menolak permohonan saya?
+ 	Jawapan :
+
+Tidak. Seksyen 30(4) memperuntukkan bahawa sebarang keputusan Menteri adalah kekal dan muktamad.
+8 	Apakah yang saya perlu buat sekiranya permohonan saya ditolak?
+ 	Jawapan :
+
+Perayu perlu mengemukakan permohonan yang baru di Ibu Pejabat Polis Daerah yang bertanggungjawab dengan menyertakan asas-asas permohonan untuk pertimbangan.
+9 	Bolehkah saya merayu terus kepada Kementerian walaupun keputusan daripada Ketua Polis Negara belum diterima
+ 	
+Jawapan :
+
+Tidak. Seksyen 30(4) memperuntukkan bahawa kuasa Menteri untuk mempertimbangkan sebarang kes adalah hanya setelah ianya ditolak oleh pihak PDRM.
+
+
+
+
+
+
+Soalan Lazim Kawalan Penerbitan dan Teks Al-Quran
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Bahagian Penguatkuasaan dan Kawalan (PKK) - Kawalan Penerbitan dan Teks Al-Quran
+
+ Penerbitan / Percetakan Teks Al-Quran
+
+**Q1: Apakah bentuk pencetakan/penerbitan teks al-Quran yang memerlukan lesen?**
+A: Semua bentuk pencetakan/penerbitan yang mengandungi ayat-ayat al-Quran sekurang-kurangnya 1 juzuk adalah perlu mendapatkan kelulusan Lembaga Pengawalan dan Pelesenan Pencetakan Al-Quran (LPPPQ).
+
+**Q2: Apakah prosedur untuk memohon lesen mencetak/menerbit teks al-Quran?**
+A: Permohonan boleh dilakukan melalui SISTEM UPQ. Pemohon hendaklah melengkapkan maklumat-maklumat/dokumen berkaitan. Sertakan maklumat-maklumat/dokumen berkaitan:
+
+- Salinan Lesen Mesin Cetak yang sah
+- Salinan Surat Pendaftaran
+- Borang A - Borang Permohonan bagi lesen untuk Mencetak/Menerbitkan Teks Al-Quran yang lengkap dipenuhi
+- Maklumat tambahan permohonan bagi lesen untuk Mencetak/Menerbit Teks Al-Quran - Borang A (1)
+- Salinan Surat Pendaftaran Syarikat
+- Senarai Perunding sekurang-kurangnya 2 orang kelulusan pakar dalam bidang: Pengajian Al-Quran dan Qiraat - Hafiz - Pengajian Syariah
+- Senarai Nama Pekerja yang dibayar Caruman EPF
+- Salinan butir-butir Pemegang Saham Syarikat (Borang 24 Akta Syarikat 1965)
+- Senarai kelengkapan pejabat (seperti telefon, fax, photostat, mesin dan lain-lain)
+
+**Q3: Saya ingin mencetak al-Quran, syarikat manakah yang memiliki lesen mencetak/menerbit teks al-Quran?**
+A: Tuan boleh merujuk kepada Senarai Kelulusan Lesen Mencetak al-quran yang telah diberi kelulusan lesen oleh Lembaga Pengawalan dan Pelesenan Pencetakan Al-Quran sebagaimana yang disenaraikan dalam web ini.
+
+**Q4: Apakah jenis rasm al-Quran yang diterima pakai di Malaysia?**
+A: Rasm al-Quran yang diterima pakai di Malaysia adalah Rasm Uthmani mengikut Standard dan perakuan Lembaga.
+
+**Q5: Siapakah pihak berkuasa yang memastikan kesahihan dan meluluskan teks al-Quran?**
+ 	
+ 
+
+Jawapan :
+
+Setiap teks al-Quran akan disemak oleh Lajnah Penyemakan dan Penilaian Teks Al-Quran (Lajnah Tasheh Al-Quran KDN) dan akan dikemukakan untuk kelulusan Lembaga Pengawalan dan Pelesenan Pencetakan Al-Quran (LPPPQ), Kementerian Dalam Negeri.
+
+Permit Penerbitan
+
+1. 	Apakah penerbitan yang memerlukan permit?
+ 	
+ 
+
+Jawapan :
+
+Terdapat 2 jenis permit penerbitan di bawah peruntukkan Akta Mesin Cetak dan Penerbitan 1984:-
+
+Permit Penerbitan (Malaysia) Seksyen 6 (1) (a) Akta Mesin Cetak dan Penerbitan 1984: Akhbar yang dicetak dan diterbitkan di Malaysia.
+Permit Penerbitan (Singapura) Seksyen 6 (1) (b) Akta Mesin Cetak dan Penerbitan 1984: Akhbar yang diterbit dan dicetak di Singapura untuk  dibenarkan diimport, dijual, dikelilingi atau diedar di Malaysia.
+2. 	Berapakah kadar bayaran sesuatu permit dan bagaimana kaedah pembayarannya?
+ 	
+ 
+
+Jawapan :
+
+Bayaran boleh dibuat melalui bank draf berdasarkan kepada kekerapan seperti berikut:
+
+ Harian - RM 3,000.00
+ 5 atau 6 kali seminggu - RM 2,000.00
+ 2 atau 3 atau 4 kali seminggu - RM 1,000.00
+ Mingguan - RM 800.00
+ 2 atau 3 kali sebulan - RM 500.00
+ Bulanan - RM 400.00
+ 1 hingga 11 kali setahun - RM 300.00
+ Surat Berita - RM 50.00
+3. 	Bagaimanakah sekiranya nama Pemohon / Ketua Pengarang bagi penerbitan Singapura berbeza dengan nama dalam MICA?
+ 	
+ 
+
+Jawapan :
+
+Pihak penerbit Singapura perlu mengemukakan surat pengesahan bahawa nama Pemohon / Ketua pengarang adalah berbeza di butiran MICA yang masih berkuat kuasa.
+
+4. 	Apakah penerbitan yang dikecualikan daripada permit?
+ 	
+ 
+
+Jawapan :
+
+Terdapat 3 jenis penerbitan yang dikecualikan:-
+
+ Penerbitan Tidak Berkala (One-Off Publication);
+ Hasil penerbitan atau apa-apa dokumen atau majalah berkala oleh atau untuk Kerajaan Persekutuan atau mana-mana Kerajaan Negeri atau mana-mana badan berkanun di bawah Seksyen 25 (1); atau
+ Melalui perintah Menteri yang disiarkan dalam Warta di bawah Seksyen 25 (2).
+5. 	Berapa lamakah masa yang diambil untuk meluluskan sesuatu permohonan?
+ 	
+ 
+
+Jawapan :
+
+Tempoh kelulusan bagi sesuatu permohonan bergantung pada jenis permohonan seperti berikut:-
+
+Bagi Permohonan Baharu mengambil masa 30 hari bekerja setelah permohonan lengkap diterima.
+Bagi Permohonan Pertukaran mengambil masa 14 hari bekerja setelah permohonan lengkap diterima.
+ Lesen Mesin Cetak
+
+1. 	Berapa lamakah tempoh masa bagi sesuatu permohonan Lesen Mesin Cetak itu dapat diluluskan?
+ 	
+ 
+
+Jawapan :
+
+Piagam Pelanggan bagi tempoh masa bagi sesuatu permohonan itu bergantung pada jenis permohonan:-
+
+Bagi Permohonan Baharu mengambil masa 30 hari bekerja setelah permohonan lengkap diterima,
+Bagi Permohonan Pertukaran mengambil masa 14 hari bekerja setelah permohonan lengkap diterima.
+2. 	Bolehkah pemohon Lesen Mesin Cetak merupakan pegawai/kakitangan syarikat tersebut?
+ 	
+ 
+
+Jawapan :
+
+Bagi kategori syarikat, pemohon mestilah salah seorang daripada ahli lembaga pengarah yang terdapat dalam borang 49 yang terkini dan berstatus warganegara dan bermastautin di Malaysia.
+Bagi kategori perniagaan tunggal/perkongsian pemohon mestilah salah seorang pemilik /rakan kongsi yang terdapat dalam borang D, Maklumat Pemilik Masa Kini dan Maklumat Perniagaan yang berstatus warganegara dan bermastautin di Malaysia.
+Bagi pertubuhan/persatuan/kesatuan/koperasi atau institusi percetakan, pemohon mestilah terdiri daripada pemegang jawatan tertinggi dalam organisasi tersebut yang berstatus warganegara dan bermastautin di Malaysia.
+3. 	Adakah KDN menetapkan syarat bahawa hanya syarikat yang berstatus bumiputera atau memiliki saham majoriti di pegang oleh bumiputra sahaja dibenarkan memohon Lesen Mesin Cetak?
+ 	
+ 
+
+Jawapan :
+
+KDN tidak menetapkan syarat sedemikian. Semua pemohon yang layak dan memenuhi syarat boleh memohon Lesen Mesin Cetak.
+
+4. 	Bolehkah sebuah syarikat milik warganegara Singapura memohon untuk mendapatkan Lesen Mesin Cetak?
+ 	
+ 
+
+Jawapan :
+
+Tidak Boleh. Walau bagaimana pun sekiranya syarikat tersebut mempunyai Ahli Lembaga Pengarah atau rakan kongsi yang terdiri daripada warganegara dan bermastautin di Malaysia, ia adalah dibenarkan.
+
+5. 	Bolehkan bahan-bahan terbitan luar untuk edaran luar negara dicetak di Malaysia?
+ 	
+ 
+
+Jawapan :
+
+Boleh. Namun begitu, syarikat percetakan tersebut mesti mendapatkan Lesen Mesin Cetak yang sah dari KDN dan bahan-bahan yang dicetak mestilah menepati Akta Mesin Cetak Penerbitan 1984 (Pindaan) 2012 serta syarat-syarat dan garis panduan penerbitan.
+
+6 	Perlukah perubahan kepada pemegang saham syarikat dbuat permohonan kepada KDN?
+ 	
+ 
+
+Jawapan :
+
+Perlu. Ini kerana sebarang perubahan atau pertukaran kepada pemegang saham syarikat akan menyebabkan perubahan atau pertukaran kepada senarai Ahli Lembaga Pengarah.
+
+7. 	Perlukah perubahan kepada mesin cetak dibuat permohonan kepada KDN?
+ 	
+ 
+
+Jawapan :
+
+Perlu. Ini kerana sebarang perubahan atau pertukaran kepada mesin cetak syarikat akan menyebabkan perubahan atau pertukaran kepada senarai mesin cetak yang sedia ada seperti termaktub dalam Seksyen 3(3) Akta Mesin Cetak Penerbitan 1984 (Pindaan) 2012.
+
+8. 	Bagaimana membuat bayaran?
+ 	
+ 
+
+Jawapan :
+
+Bayaran boleh dibuat melalui Wang Pos atau Bank Draf atas nama Ketua Setiausaha Kementerian Dalam Negeri sebaik sahaja surat kelulusan dan minta bayaran dikeluarkan kepada pemohon.
+
+9. 	Perlukah bagi syarikat yang sama memohon lesen percetakan sekiranya membuka premis percetakan yang berbeza?
+ 	
+ 
+
+Jawapan :
+
+Dalam keadaan:
+
+a. Bagi premis yang bersebelahan/sederet dan tiada pemisah dengan premis asal permohonan ini dikategorikan sebagai tambah alamat.
+
+Syarikat tersebut perlu membuat permohonan tambah alamat dan perlu mendapatkan ulasan sokongan dari JKKP dan PBT semula.
+b. Bagi premis yang bukan bersebelahan dengan premis asal dikategorikan sebagai premis cawangan.
+
+Syarikat tersebut perlu membuat permohonan seperti permohonan baharu dan lesen baharu dikeluarkan untuk cawangan tersebut. Walaubagaimanapun, kadar bayaran yang dikenakan untuk lesen tersebut berjumlah RM 300.00 sahaja.(cawangan)
+10. 	
+Hubungi kami.
+
+ 	
+Bahagian Penguatkuasaan dan Kawalan (PK)
+Kementerian Dalam Negeri
+Aras 5 & 6, Blok D1, Kompleks D
+Pusat Pentadbiran Kerajaan Persekutuan
+62546 Putrajaya.
+
+Tel :- 
+
+Kawalan Teks Al-Quran/Hadith - 03-8886 8573/8253
+
+Lesen Mesin Cetak / Permit Penerbitan - 03-8886 8416/3909
+
+
+
+Soalan Lazim Pejabat Penapisan Filem
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Bahagian Kawalan Penapisan Filem dan Penguatkuasaan.
+
+
+1. Apakah filem yang perlu ditapis?
+
+Filem termasuklah apa-apa bahagian atau keseluruhan rakaman pada apa-apa jenis bahan yang boleh menyimpan data bagi tujuan tayangan di pawagam, penjualan, penyewaan, pengedaran, penayangan, penyiaran ataupun penyebaran secara awam.
+
+ 
+
+2. Apakah peruntukan yang terdapat dalam Akta Penapisan Filem 2002?
+
+Terdapat sebanyak 56 seksyen dalam Akta Penapisan Filem.
+
+Seksyen 2(3): Ketidakpakaian menyatakan bahawa:
+
+“Akta ini tidak boleh ditafsirkan sebagai membenarkan penapisan apa-apa filem atau bahan publisiti filem yang disiarkan, dipamerkan, disebarkan, ditayangkan, diedarkan atau dipancarkan melalui internet atau melalui intranet.”
+
+ 
+
+3. Apakah peranan Lembaga Penapis Filem (LPF)?
+
+LPF bertanggungjawab menapis semua filem dan bahan publisiti filem yang diedar, dijual dan dipamerkan kepada umum berdasarkan akta ini dan Garis Panduan Penapisan Filem. Penapisan Filem yang dibuat adalah berdasarkan empat (4) aspek utama iaitu Keselamatan dan Ketenteraman Awam, Keagamaan, Sosiobudaya dan seterusnya Ketertiban dan Ketatasusilaan.
+LPF juga merupakan badan penasihat kepada penerbit, pengarah filem dan penggiat seni dalam menghasilkan filem-filem agar tidak tersasar dari empat aspek utama tersebut.
+
+ 
+
+4. Apakah peranan Jawatankuasa Rayuan Filem (JKRF)?
+
+JKRF diwujudkan di bawah (Akta 620) dan ahli-ahlinya dilantik oleh Menteri. JKRF bertanggungjawab bagi menimbang rayuan mana-mana pihak yang tidak berpuashati dengan keputusan yang dibuat LPF terhadap sesuatu filem atau bahan publisiti filem. Permohonan rayuan hendaklah dibuat dalam masa 30 hari dari tarikh keputusan penapisan.
+
+ 
+
+5. Bagaimanakah Proses Permohonan Penapisan Filem dijalankan?
+
+Pemohon yang ingin membuat permohonan penapisan filem mestilah terlebih dahulu membuat pendaftaran syarikat dengan Bahagian ini.
+
+Borang permohonan boleh dimuat turun melalui laman web http://www.moha.gov.my atau mendapatkannya di kaunter One Stop Centre, Aras G, Blok D1, Kompleks D, Putrajaya.
+
+Borang permohonan yang telah lengkap bersama-sama dengan filem kemudiannya dihantar ke Kaunter One Stop Centre.
+
+Hanya permohonan yang lengkap mengikut senarai semak akan didaftarkan dalam Sistem Maklumat Penapisan Filem (e-filem) dan diteruskan dengan proses penapisan.
+
+Selepas kelulusan penapisan dilakukan oleh Pengerusi LPF, Sijil Perakuan A akan dicetak dan diberikan kepada pemohon dalam masa lima (5) hari bekerja.
+
+ 
+
+6. Apakah perbezaan Perakuan A dan Perakuan B?
+
+Perakuan A dikeluarkan setelah sesuatu filem telah diluluskan atau diubah (sekiranya perlu) sebagaimana yang disyorkan oleh LPF.
+
+Manakala Perakuan B pula dikeluarkan bagi tiap-tiap salinan filem atau bahan publisiti filem yang dihasilkan.
+
+ 
+
+7. Apakah kategori pengkelasan Filem dan perbezaannya?
+
+UNTUK TONTONAN UMUM
+sesuai untuk ditonton oleh semua lapisan masyarakat (memaparkan nilai-nilai murni, sopan dan memberi pengajaran yang baik).
+
+UNTUK TONTONAN 13 TAHUN KE ATAS
+Bimbingan ibubapa diperlukan bagi kanak-kanak berumur 13 tahun dan ke bawah (mengandungi unsur-unsur ganas atau seram).
+
+UNTUK TONTONAN 18 TAHUN KE ATAS
+Mengandungi unsur-unsur ganas, seram dan ngeri yang tidak keterlaluan atau yang menyentuh aspek agama, sosial dan politik.
+
+ 
+
+8. Apakah perbezaan FINAS dan BKF?
+
+FINAS adalah satu agensi di bawah Kementerian Komunikasi dan Multimedia Malaysia (KKMM) yang bertanggungjawab menggalak, memelihara dan memudahkan kemajuan perusahaan perfileman Malaysia serta membantu dalam memartabatkan filem tempatan supaya mampu bersaing dengan industri perfileman asing.
+
+BKF adalah bahagian di bawah Kementerian Dalam Negeri yang bertanggungjawab ke atas pengurusan filem dan bahan publisiti filem penapisan dan penguatkuasaan Akta Penapisan Filem 2002 (Akta 620).
+
+ 
+
+9. Adakah BKF turut mengawal kandungan dan informasi yang terdapat dalam siaran radio? Apakah undang-undang khusus yang digunakan?
+
+BKF tidak mempunyai kuasa dalam menyekat kandungan yang disiarkan melalui radio (seperti muzik) ini kerana penapisan kandungan audio atau muzik tidak dilindungi di bawah Akta Penapisan Filem, melainkan jika ia disertai dengan video (iaitu Video Muzik ). Kandungan siaran radio adalah di bawah bidang kuasa Suruhanjaya Komunikasi Malaysia dan Suruhanjaya Multimedia (SKMM), yang beroperasi di bawah Kementerian Komunikasi dan Multimedia Malaysia.
+
+
+
+
+
+
+Soalan Lazim Bahagian Pendaftaran Negara dan Pertubuhan
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Bahagian Pendaftaran Negara dan Pertubuhan
+Kewarganegaraan
+1. 	Saya sudah memohon taraf kewarganegaraan di Jabatan Pendaftaran Negara (JPN) dan permohonan saya sudah dihantar ke Kementerian Dalam Negeri (KDN). Berapa lama permohonan saya tersebut akan diproses?
+ 	Jawapan :
+
+Permohonan yang selesai di proses oleh Jabatan Pendaftaran Negara akan diproses dan dikaji dengan teliti oleh Kementerian sebelum diangkat untuk pertimbangan dan kelulusan Menteri Dalam Negeri. Keseluruhan proses tersebut akan memakan masa yang panjang sebelum keputusan dapat dikeluarkan. Pada kebiasaan pemohon akan dimaklumkan dalam tempoh 2 tahun atau lebih dan keputusannya adalah terpulang kepada budi bicara Kementerian.
+MyKad
+1. 	Saya telah memohon untuk menukar kad pengenalan lama (KPT) kepada MyKad dan telah menunggu selama lebih satu tahun. Apa yang perlu saya lakukan untuk mempercepatkan saya mendapatkan MyKad?
+ 	Jawapan :
+
+Semua urusan berkaitan kad pengenalan adalah di bawah bidang kuasa Jabatan Pendaftaran Negara. Pemohon dinasihatkan menghubungi JPN untuk mendapatkan bantuan.
+
+
+
+
+
+Soalan Lazim Unit Komunikasi Korporat
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Pengurusan Aduan Awam.
+
+1. Apakah aduan yang boleh diadukan kepada Kementerian Dalam Negeri (KDN)?
+
+KDN boleh menyiasat aduan – aduan yang melibatkan 28 Bahagian/ Unit merangkumi:
+
+i. Kelewatan/ Tiada Tindakan;
+
+ii. Tindakan Tidak Adil;
+
+iii. Kekurangan Kemudahan Awam;
+
+iv. Kepincangan Dasar dan Kelemahan Undang-undang;
+
+v. Salahguna Kuasa dan Penyelewengan;
+
+vi. Salahlaku Anggota Awam;
+
+vii. Kegagalan Mengikut Prosedur;
+
+viii. Kegagalan Penguatkuasaan
+
+ix. Kualiti Perkhidmatan Pelanggan Yang Tidak Memuaskan
+
+ 
+
+2. Bolehkah saya membuat aduan bagi pihak orang lain?
+
+Boleh, dengan kebenaran dan melampirkan sesalinan surat kebenaran daripada pengadu.
+
+ 
+
+3. Adakah sebarang bayaran akan dikenakan untuk membuat aduan?
+
+Tiada sebarang bayaran yang akan dikenakan.
+
+ 
+
+4. Adakah setiap aduan yang diterima akan disiasat oleh KDN?
+
+Setiap aduan yang diterima akan disiasat oleh KDN sekiranya maklumat yang
+
+diberikan adalah jelas, berasas dan berada di bawah bidang kuasa Kementerian ini.
+
+Walau bagaimanapun, KDN mempunyai pertimbangan untuk tidak menjalankan
+
+siasatan bagi kes kes seperti berikut:
+
+i. Diluar bidang kuasa KDN;
+
+ii. Menyentuh dasar-dasar kerajaan atau perkara-perkara di bawah bidang kuasa:
+
+iii.
+
+- Jawatankuasa Khas Kabinet Mengenai Keutuhan Pengurusan Kerajaan;
+
+- Jawatankuasa Kira-kira Awam (PAC);
+
+- Suruhanjaya Pencegahan Rasuah Malaysia (SPRM);
+
+- Suruhanjaya Integriti Agensi Penguatkuasaan (SIAP);
+
+- Jabatan Bantuan Guaman;
+
+- Mahkamah
+
+ 
+
+5. Apakah butiran yang perlu ada pada setiap aduan yang dibuat?
+
+Setiap aduan yang dibuat perlu mengandungi maklumat yang mencukupi termasuk dokumen sokongan (sekiranya ada) bagi membolehkan KDN menilai kedudukan dan membantu KDN menjalankan siasatan. Pengadu juga perlu memberikan butiran peribadi seperti Nama, No Kad Pengenalan, Alamat Perhubungan (No Telefon dan E-mel). KDN akan merahsiakan maklumat peribadi anda sekiranya diminta untuk berbuat demikian.
+
+ 
+
+6. Apakah yang akan berlaku kepada aduan saya?
+
+Setiap kes yang diterima dan diproses, KDN akan menghantar Surat Akuan Terima dalam tempoh 3 hari bekerja.
+
+ 
+
+7. Berapakah tempoh masa siasatan sesuatu aduan?
+
+Berdasarkan kepada Prosedur Operasi Standard (SOP) dan pekeliling yang sedang berkuatkuasa, semua aduan akan di bahagikan kepada dua (2) kategori utama iaitu Biasa dan Kompleks. Tempoh penyelesaian aduan biasa adalah 15 Hari Bekerja, manakala aduan ketegori kompleks adalah sehingga 365 hari. Penentuan aduan kategori biasa dan kompleks adalah berdasarkan kepada butiran kes yang diterima.
+
+ 
+
+8. Bagaimana cara saya membuat aduan
+
+KDN telah menyediakan saluran-saluran aduan seperti berikut:
+
+i. Laman Sesawang/ Portal Aduan: www.moha.gov.my / moha.spab.gov.my
+
+ii. E-mel: pro@moha.gov.my
+
+iii. Telefon: 03 8880 0813 / 15
+
+iv. Surat:
+
+Unit Komunikasi Korporat
+
+Kementerian Dalam Negeri
+
+Aras 3, Blok D9, Kompleks D
+
+Pusat Pentadbiran Kerajaan Persekutuan
+
+62590 WP Putrajaya
+
+v. Hadir sendiri ke Unit Komunikasi Korporat, KDN
+
+ 
+
+PERINGATAN
+
+KDN boleh untuk tidak melayan sebarang aduan yang menggunakan bahasa yang kesat, lucah, konfrontasi, penghinaan atau tuduhan tanpa asas. KDN juga tidak akan mencampuri kes-kes yang melibatkan keputusan mana-mana mahkamah atau yang seumpamanya serta mana-mana pertikaian yang melibatkan masalah peribadi antara individu/ syarikat yang tiada kaitan dengan fungsi/ peranan KDN.
+
+
+
+
+
+Soalan Lazim Bahagian Akaun
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Bahagian Akaun
+UNIT AMANAH, DEPOSIT & PANJAR :
+
+1 	Bilakah Penyata Penyesuaian Amanah/Deposit/Panjar perlu dikemukakan oleh PTJ ke Bahagian Akaun KDN?
+ 	Jawapan :
+
+Berdasarkan AP 143 (b) dan Pekeliling Perbendaharaan Bil. 8/1987, Penyata Penyesuaian Akaun Amanah/Deposit/Panjar hendaklah disediakan bagi menyesuaikan baki rekod perakaunan Jabatan dengan Laporan Terperinci yang dikeluarkan oleh Pejabat Perakaunan dalam tempoh 14 hari daripada tarikh terima Laporan Terperinci.
+
+2 	Bagaimanakah tatacara pengurusan Akaun Amanah Awam/Kerajaan?
+ 	Jawapan :
+
+Perbendaharaan Malaysia ada mengeluarkan Tatacara Pengurusan Akaun Amanah Yang Ditubuhkan Di Bawah Seksyen 9, Akta Acara Kewangan 1957 untuk dijadikan panduan di dalam menguruskan Akaun Amanah Awam dengan teratur dan berkesan. Sila rujuk Pekeliling Perbendaharaan WP 10.4. Bagi Akaun Amanah Khas dan Akaun Amanah Kerajaan (Seksyen 10, Akta Acara Kewangan 1957), PTJ dicadangkan untuk mengguna pakai PP yang sama sebagai panduan dalam menguruskan akaun amanah berkenaan.
+
+3 	Apakah tindakan yang perlu diambil terhadap deposit yang boleh dituntut namun tidak dituntut oleh pendeposit?
+ 	
+Jawapan :
+
+a)Jika tiada sebab-sebab tertentu, deposit yang tidak dituntut selepas tempoh 12 bulan dari tarikh deposit boleh dikembalikan hendaklah diberitahu dalam Warta Kerajaan.
+
+b)Jika deposit itu masih tidak dituntut dalam masa 3 bulan selepas diwartakan maka ia hendaklah dikreditkan ke hasil Kerajaan (Kod Hasil : 81302 - Wang Tidak Dituntut)
+
+4 	Apakah syarat-syarat dan prosedur untuk memohon pembukaan panjar wang runcit (PWR)?
+ 	Jawapan :
+
+Permohonan mewujudkan PWR hanya diluluskan kepada pejabat yang berstatus PTJ. Dokumen-dokumen yang perlu dikemukakan bagi permohonan mewujud PWRadalah seperti berikut:
+
+Surat permohonan PTJ;
+Surat sokongan daripada Kementerian /Ibu Pejabat PTJ;
+Carta Organisasi Kementerian/Jabatan;
+Laporan C110B (Laporan Kedudukan Peruntukan Vot Bekalan)/Laporan C231B (Laporan Terperinci Perbelanjaan Vot Bekalan);
+Justifikasi keperluan PWR;
+Anggaran perbelanjaan sebulan; dan
+Borang Maklumat Penerima Bayaran GFMAS
+5 	Apakah syarat-syarat dan prosedur untuk memohon penambahan amaun apungan PWR?
+ 	Jawapan :
+
+Permohonan menambah amaun apungan PWR dibenarkan kepada semua Pemegang PWR sedia ada iaitu sama ada berstatus PTJ atau pun Pusat Kos. Dokumen-dokumen yang perlu dikemukakan bagi permohonan menambah PWR┬á adalah seperti berikut:
+
+Surat permohonan PTJ;
+Surat sokongan daripada Kementerian /Ibu Pejabat PTJ;
+Justifikasi keperluan penambahan PWR; dan
+Rekod Buku Tunai bagi rekupmen 6 bulan terdahulu.
+6 	Apakah prosedur untuk memohon penutupan/mengurang PWR?
+ 	Jawapan :
+
+Dokumen yang perlu dikemukakan bagi permohonan menutup/mengurang PWR adalah seperti berikut :
+
+Surat permohonan PTJ; dan
+Surat sokongan daripada Kementerian/Ibu Pejabat PTJ.
+Setelah kelulusan JANM diperolehi, amaun PWR yang berkenaan perlu dipulangkan kepada JANM dengan memasukkan amaun tersebut ke dalam Akaun Bank Terimaan Pejabat Perakaunan di mana rekupmen dibuat.Dokumen yang perlu dikemukakan kepada Bahagian Akaun KDN setelah amaun PWR dipulangkan adalah seperti berikut:
+
+Salinan Penyata Pemungut; dan
+Salinan Laporan Terperinci (C350/Laporan FBL1N yang berbaki sifar (0) bagi penutupan PWR dan yang mempunyai baki terkini selepas pengurangan PWR.
+7 	Apakah pembayaran yang boleh dibuat daripada PWR?
+ 	Jawapan :
+
+Pembayaran yang boleh dibuat daripada PWR adalah perbelanjaan rasmi berdasarkan kriteria seperti berikut:
+
+Pembayaran kecil yang segera - perbelanjaan tidak berkala dan tidak dirancang menyebabkan pesanan tempatan tidak dapat dikeluarkan.
+Perbelanjaan runcit - pembelian kecil-kecilan yang tidak praktikal untuk membuat pembelian melalui pesanan tempatan.
+Tidak melebihi RM500.00 bagi setiap resit/bil - Pemegang Panjar dibenarkan untuk membuat bayaran melebihi RM500.00 sekiranya praktikal dan berfaedah dengan kelulusan Ketua Jabatan sebelum pembelian dibuat [AP 97 (d)].
+Pembelian tidak dijeniskan sebagai Aset (Harta Modal dan Inventori di bawah Kod Objek Am 30000); dan
+Pendahuluan untuk belanja perjalanan kepada pegawai yang menggunakan kenderaan jabatan kecuali untuk membayar tuntutan perjalanan.
+8 	Apakah Laporan FBL1N bagi PWR?
+ 	Jawapan :
+
+Laporan FBL1N PWR adalah Laporan Terperinci Tunai PWR yang menunjukkan semua transaksi PWR yang dibuat melalui Modul Panjar eSPKB/manual. Laporan ini digunapakai bagi menggantikan Laporan C350 buat sementara waktu sehinggalah Laporan C350 yang dijana adalah stabil.
+
+
+
+
+
+Soalan Lazim Bahagian Pengurusan Kawal Selia Pencegahan Jenayah dan Keganasan
+1.  Adakah seseorang yang dikenakan tindakan di bawah Akta Pencegahan Jenayah 1959 [Akta 297] dan Akta Pencegahan Keganasan 2015 [Akta 769] boleh mengemukakan rayuan? Dan bagaimana caranya?
+
+Ya. Rayuan boleh dikemukakan secara bertulis kepada Bahagian Pengurusan Kawal Selia Pencegahan Jenayah dan Keganasan (PJK) beserta dokumen sokongan yang lengkap (sekiranya ada). Rayuan bertulis tersebut hendaklah dihantar kepada:
+
+Setiausaha Bahagian
+
+Bahagian Pengurusan Kawal Selia Pencegahan Jenayah dan Keganasan
+
+Aras 3, Setia Perkasa 7, Kompleks Setia Perkasa
+
+Pusat Pentadbiran Kerajaan Persekutuan
+
+62546 Putrajaya
+
+W.P. PUTRAJAYA
+
+2.  Bilakah rayuan boleh dikemukakan kepada PJK?
+
+Rayuan boleh dikemukakan pada bila-bila masa selepas sesuatu Perintah / Hukuman dikeluarkan.
+
+3.  Siapakah yang boleh mengemukakan rayuan?
+
+Penama yang dikenakan tindakan di bawah Akta 297 atau Akta 769, peguam yang mewakili penama atau anggota keluarga kepada penama.
+
+4.  Bagaimana saya ingin mendapatkan keputusan rayuan?
+
+PJK akan menghantar keputusan secara bertulis kepada penama yang mengemukakan rayuan.
+
+
+
+
+Soalan Lazim Urus Setia Lembaga Parol
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+Urus Setia Lembaga Parol
+
+1 
+
+Apakah dimaksudkan dengan Lembaga Parol?
+
+ 	
+ Seperti termaktub di bawah Seksyen 46B (2) Akta Penjara (Pindaan) 2008, sesuatu Lembaga Parol terdiri daripada 7 orang anggota yang dilantik oleh Yang di-Pertuan Agong (YDPA) seperti yang berikut:
+
+Seorang Pengerusi dari kalangan anggota Perkhidmatan dan  Perundangan;
+Seorang pegawai kanan penjara;
+Seorang pegawai kanan polis;
+Seorang pegawai kanan kebajikan; dan
+Tiga orang awam.
+Selaras dengan Seksyen 46C (1) Akta Penjara (Pindaan) 2008, sesuatu Lembaga Parol diperuntukkan seperti yang berikut:
+
+Membuat keputusan sama ada untuk melepaskan secara parol seseorang banduan yang memohon parol;
+Menggantung atau membatalkan sesuatu Perintah Parol;
+Menambah apa-apa syarat atau menggubah mana-mana syarat sesuatu Perintah Parol;
+Mengadakan sesuatu siasatan berkenaan dengan apa-apa perkara yang berkaitan parol;
+Memeriksa mana-mana banduan untuk mendapatkan maklumat tambahan berkaitan dengan sesuatu permohonan parol atau bagi apa-apa sebab lain yang difikirkan patut oleh Lembaga Parol; dan
+Menjalankan dan melaksanakan apa-apa fungsi dan tugas lain sebagaimana yang ditentukan oleh Menteri.
+2 
+
+Apakah itu Orang diParol (ODP)?
+
+ 	
+Orang diParol (ODP) merujuk kepada banduan yang dilepaskan pelepasan secara perintah parol oleh Lembaga Parol bagi menjalani baki hukuman di luar penjara. Pelepasan secara perintah parol adalah melalui syarat-syarat yang berdasarkan kepada Akta Penjara (Pindaan) 2008.
+
+3 
+
+Apakah kelayakan mendapat parol?
+
+ 	
+Minimun satu tahun pemenjaraan bagi apa-apa kesalahan kecuali kesalahan dalam Jadual Keempat Akta Penjara (Pindaan) 2008.
+Telah menjalani sekurang-kurangnya seperdua dari tempoh pemenjaraan tanpa mengambil kira remitan hukuman diberi.
+Telah menjalani program pemulihan semasa menjalani hukuman pemenjaraan yang diluluskan oleh Komisioner Jeneral.
+4 
+
+Apakah asas-asas pertimbangan parol?
+
+ 	
+Selaras dengan Akta Penjara (Pindaan) 2008, perkara yang perlu diambil kira oleh Lembaga Parol sebelum meluluskan permohonan secara parol ialah seperti berikut:
+
+Keperluan untuk melindungi keselamatan masyarakat;
+Keperluan untuk mengekalkan keyakinan orang awam dalam pentadbiran keadilan;
+Sifat dan hal keadaan kesalahan yang berhubung dengan hukuman ke atas banduan itu;
+Rekod jenayah banduan;
+Risiko banduan melakukan lagi apa-apa kesalahan jika dia dilepaskan secara parol;
+Banduan boleh menyesuaikan diri dengan kehidupan masyarakat; dan
+Kesan ke atas mangsa banduan dan keluarga mangsa jika banduan itu dilepaskan secara parol.
+5 
+
+Di manakah Orang diParol (ODP) akan ditempatkan setelah mendapat pelepasan secara parol?
+
+ 	
+Lembaga Parol akan bersidang dua kali seminggu iaitu pada hari Selasa dan Khamis bagi mempertimbangkan permohonan secara parol banduan. Selepas permohonan parol telah dipertimbangkan dan diluluskan oleh Lembaga Parol, ODP akan ditempatkan sama ada kepada keluarga, Rumah Perantaraan di bawah seliaan Jabatan Penjara atau di bawah program Corporate Smart Internship for Parolee (CSI) bersama majikan.
+
+6 
+
+Apa dimaksudkan dengan Corporate Smart Internship for Parolee (CSI)?
+
+ 	
+Program Corporate Smart Internship for Parolee (CSI) merupakan program kerjasama di antara Jabatan Penjara Malaysia dengan agensi kerajaan/badan berkanun/syarikat swasta yang menawarkan program latihan kemahiran dan kerjaya kepada Orang diParol (ODP).
+
+Program ini telah dijadikan sebagai salah satu program di bawah inisiatif Transformasi Kementerian Dalam Negeri bagi tahun 2017 yang menekankan kesejahteraan masyarakat dan juga program yang berimpak tinggi.
+
+7 
+
+Bagaimanakah permohonan semula untuk mendapatkan parol setelah ditolak oleh Lembaga Parol?
+
+ 	
+Berdasarkan peruntukan Seksyen 46H (2) Akta Penjara (Pindaan) 2008, permohonan semula pelepasan secara parol banduan masih boleh dikemukakan semula selepas enam bulan dari tarikh penolakan sekiranya tempoh Earliest Possible Date of Discharge (EPD) banduan masih panjang.
+
+8 
+
+Apakah dimaksudkan dengan Penyata 4 Tahun?
+
+ 	
+Berdasarkan perkara 42 Pelembagaan Persekutuan, Yang di-Pertuan Agong (YDPA), Raja atau Yang di-Pertua Negeri mempunyai kuasa untuk memberi ampun, tunda hukuman atau lega hukuman. Kuasa YDPA adalah bagi kesemua kes dan kesalahan yang dilakukan di kawasan Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya manakala kes-kes dan kesalahan yang dilakukan di negeri-negeri lain, kuasa pengampunan adalah di bawah Raja, Sultan atau Yang di-Pertua Negeri masing-masing.
+
+Peraturan 54 dalam Peraturan-Peraturan Penjara 2000 menyatakan kes-kes di bawah Jabatan Penjara Malaysia bagi banduan-banduan yang dijatuhkan hukuman lebih daripada 7 tahun tempoh pemenjaraan. Jabatan Penjara Malaysia akan mengemukakan kes-kes banduan setiap 4 tahun tempoh pemenjaraan banduan tersebut iaitu pada tahun ke-4, ke-8, ke-12, ke-16 tempoh pemenjaraan dan setiap tahun selepas 16 tahun tempoh pemenjaraan.
+
+Menurut Seksyen 46E (6) dan 46E (6) (a) dalam Akta Penjara (Pindaan) 2008, jika mana-mana banduan mempunyai hak untuk mendapat pengampunan yang berhubung dengan apa-apa kesalahan, selain kesalahan yang ditetapkan dalam Jadual Keempat, banduan itu layak dipertimbangkan untuk mendapat parol hanya selepas kesnya telah terlebih dahulu dibawa ke hadapan suatu Lembaga Pengampunan melainkan jika dia dibebaskan dengan ampun, tunda hukuman atau lega hukuman oleh Yang di-Pertuan Agong (YDPA), Raja atau Yang di-Pertua Negeri mengikut mana-mana yang berkenaan.
+
+
+
+
+
+
+Soalan Lazim Khidmat Pengurusan
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+
+1.
+
+Apakah itu Tapisan Keselamatan?
+
+ 	
+Tapisan Keselamatan adalah proses memeriksa latar belakang individu bagi memastikan individu berkenaan bebas daripada rekod jenayah, espionaj, subversive, ekstrimisme dan apa-apa rekod buruk lain yang boleh mendatangkan ancaman keselamatan.
+
+2.
+
+Siapakah yang perlu / diwajibkan untuk menjalani Tapisan Keselamatan?
+
+ 
+
+Semua pegawai awam bagi semua gred dan individu yang memberi servis kepada pihak kerajaan perlu / wajib menjalani Tapisan Keselamatan.
+
+3.
+
+Bagaimanakah cara untuk memohon / membuat Tapisan Keselamatan?
+
+ 
+
+Semua permohonan dilakukan secara dalam talian (online) di laman web www.evetting.cgso.gov.my.
+
+4.
+
+Apakah jenis Tapisan Keselamatan?
+
+ 
+
+Tapisan Keselamatan terbahagi kepada dua (2) jenis iaitu Tapisan Keselamatan Kasar dan Tapisan Keselamatan Halus.
+
+5.
+
+Bagaimanakah panduan memohon Tapisan Keselamatan dalam sistem
+e-vetting?
+
+ 
+
+Buat pilihan dalam sistem pada permohonan baru dan pilih Lantikan Suruhanjaya Perkhidmatan Awam (SPA) atau Pentadbiran Kerajaan Negeri atau Pihak Berkuasa Tempatan (PBT) dan kemudian isi borang sedia ada. Seterusnya, apabila mula mengisi maklumat perjawatan, pemohon dapat menentukan pilihan sama ada Tapisan Keselamatan Kasar atau Halus.
+
+6.
+
+Adakah Pegawai Awam perlu lulus Tapisan Keselamatan sebelum disahkan dalam jawatan?
+
+ 
+
+Pegawai Awam hendaklah mengemukakan maklumat Tapisan Keselamatan dalam tempoh 30 hari bekerja mulai tarikh melaporkan diri bertugas dan memastikan telah lulus Tapisan Keselamatan sebaik-baiknya sebelum disahkan dalam perkhidmatan.
+
+Pegawai boleh disahkan jawatan terlebih dahulu, namun pegawai masih tertakluk untuk menjalani dan lulus Tapisan Keselamatan.
+
+7.
+
+Bagaimanakah ciri-ciri gambar yang perlu dimuat naik?
+
+ 
+
+Ciri-ciri gambar yang perlu dimuat naik hendaklah gambar yang bercirikan sopan dan jelas.
+
+8.
+
+Dimanakah pilihan permohonan bagi lantikan Personel MyStep?
+
+ 
+
+Pilih Lantikan Suruhanjaya Perkhidmatan Awam (SPA) atau Pentadbiran Kerajaan Negeri atau Pihak Berkuasa Tempatan (PBT).
+
+Klik butang Jawatan.
+
+Klik butang Personel MyStep.
+
+9.
+
+Bagaimanakah Tapisan Keselamatan bagi Contract of Service (COS) / Contract for Service (CFS) direkod?
+
+ 
+
+Bagi pegawai yang tidak mempunyai Buku Perkhidmatan, maklumat keputusan Tapisan Keselamatan perlu dimasukkan dalam fail peribadi masing-masing.
+
+10.
+
+Apakah Tapisan Keselamatan Khas?
+
+ 
+
+Tapisan Keselamatan Khas adalah tapisan yang perlu dilaksanakan oleh pegawai lantikan kontrak yang berkhidmat dengan pejabat Anggota Pentadbiran, contoh Setiausaha Politik, SUPOL dan sebagainya.
+
+11.
+
+Siapakah yang perlu mengisi Tapisan Jawatankuasa Keselamatan Berjadual (JKB)?
+
+ 
+
+Tapisan Keselamatan (JKB) hendaklah dilaksanakan oleh pegawai yang mengakses Rahsia dan Rahsia Besar. Termasuk semua gred yang terlibat dalam menguruskan Dokumen tersebut seperti penghantaran/pendaftaran/penyediaan.
+
+12.
+
+Adakah mereka yang telah menjalani Tapisan Keselamatan Halus perlu menjalani Tapisan Keselamatan Berjadual (JKB)?
+
+ 
+
+Sekiranya telah melaksanakan Tapisan Keselamatan Halus, pegawai tidak perlu menjalani Tapisan JKB dalam tempoh 5 tahun selepas mendapat keputusan Tapisan Keselamatan Halus.
+
+13.
+
+Apakah Tapisan Keselamatan Berjadual (JKB) perlu membawa pengadil semasa menjalani temu duga?
+
+ 
+
+Ya, Tapisan Keselamatan JKB perlu pengadil peribadi sebagaimana keperluan Tapisan Keselamatan Halus.
+
+14.
+
+Bilakah Tapisan Keselamatan Semula dilaksanakan?
+
+ 
+
+Berdasarkan Pekeliling Am Bilangan 5 Tahun 2021, semua penjawat awam perlu memohon Tapisan Keselamatan semula selepas 5 tahun mendapat keputusan Tapisan Keselamatan kali pertama.
+
+15.
+
+Adakah staf vendor perlu menjalani Tapisan Keselamatan?
+
+ 
+
+Setiap staf vendor yang berurusan dengan Kerajaan perlu menjalani Tapisan Keselamatan.
+
+ 
+
+16.
+
+Apakah kaedah permohonan Tapisan Keselamatan kali pertama bagi pihak vendor?
+
+ 
+
+Permohonan melalui sistem e-vetting dilaman web www.evetting.cgso.gov.my dengan mendaftar akaun pemohon syarikat dan memilih borang lantikan vendor/kontraktor.
+
+17.
+
+Bagaimanakah jika keputusan Tapisan Keselamatan bagi vendor yang didapati gagal Tapisan Keselamatan?
+
+ 
+
+Pihak pengurusan berhak untuk menamatkan perkhidmatan dengan serta-merta. Sekiranya pihak pengurusan ingin mendapatkan pandangan dan khidmat nasihat, pihak pengurusan boleh berhubung dengan Ibu Pejabat CGSO.
+
+18.
+
+Adakah keperluan bagi pegawai yang akan bersara dalam masa terdekat untuk menjalani Tapisan Keselamatan?
+
+ 
+
+Jika seseorang pegawai akan bersara, keperluan untuk menjalani semula Tapisan Keselamatan adalah dalam tempoh 5 tahun sebelum tarikh bersara atau mengikut keperluan semasa oleh Ketua Jabatan. Walau bagaimanapun, pegawai yang akan bersara akan menjalani Tapisan Keutuhan.
+
+19.
+
+Adakah tapisan ini perlu direkod dalam Buku Rekod Perkhidmatan?
+
+ 
+
+Ya, keputusan Tapisan Keselamatan hendaklah dicatitkan dalam Buku Rekod Perkhidmatan, pegawai hendaklah menjalani Tapisan Keselamatan semula dan perlu direkodkan.
+
+20.
+
+Apakah tindakan diambil kepada pegawai yang gagal Tapisan Keselamatan?
+
+ 
+
+Pegawai yang gagal dalam Tapisan Keselamatan akan ditetapkan sebagai penama berekod. Ketua Jabatan perlu merujuk kepada pejabat CGSO untuk mengambil tindakan selanjutnya.
+
+21.
+
+Perlukan Anggota Polis dan Tentera melaksanakan Tapisan Keselamatan?
+
+ 
+
+Tidak, Anggota Polis dan Tentera perlu menjalani tapisan di Jabatan masing-masing seperti yang ditetapkan.
+
+22.
+
+Bagaimanakah jika terdapat persoalan berkaitan sistem seperti pengemaskinian dan sebagainya?
+
+ 
+
+Sebarang pertanyaan lanjut berkaitan pengemaskinian data boleh dikemukakan kepada Helpdesk e-vetting melalui e-mel bkps@cgso.gov.my.
+
+23.
+
+Apakah talian hotline CGSO?
+
+ 
+
+Talian Hotline CGSO: 03-8872 6012
+
+ 
+
+
+
+
+
+ Soalan Lazim Khidmat Pengurusan
+Berikut adalah soalan-soalan yang sering diajukan oleh pengunjung Portal Kementerian Dalam Negeri. Sekiranya terdapat sebarang pertanyaan lain sila hubungi kami di talian 03- 8886 8533 atau e-mel kepada kami di pro@moha.gov.my
+
+
+1.
+
+Apakah itu Tapisan Keselamatan?
+
+ 	
+Tapisan Keselamatan adalah proses memeriksa latar belakang individu bagi memastikan individu berkenaan bebas daripada rekod jenayah, espionaj, subversive, ekstrimisme dan apa-apa rekod buruk lain yang boleh mendatangkan ancaman keselamatan.
+
+2.
+
+Siapakah yang perlu / diwajibkan untuk menjalani Tapisan Keselamatan?
+
+ 
+
+Semua pegawai awam bagi semua gred dan individu yang memberi servis kepada pihak kerajaan perlu / wajib menjalani Tapisan Keselamatan.
+
+3.
+
+Bagaimanakah cara untuk memohon / membuat Tapisan Keselamatan?
+
+ 
+
+Semua permohonan dilakukan secara dalam talian (online) di laman web www.evetting.cgso.gov.my.
+
+4.
+
+Apakah jenis Tapisan Keselamatan?
+
+ 
+
+Tapisan Keselamatan terbahagi kepada dua (2) jenis iaitu Tapisan Keselamatan Kasar dan Tapisan Keselamatan Halus.
+
+5.
+
+Bagaimanakah panduan memohon Tapisan Keselamatan dalam sistem
+e-vetting?
+
+ 
+
+Buat pilihan dalam sistem pada permohonan baru dan pilih Lantikan Suruhanjaya Perkhidmatan Awam (SPA) atau Pentadbiran Kerajaan Negeri atau Pihak Berkuasa Tempatan (PBT) dan kemudian isi borang sedia ada. Seterusnya, apabila mula mengisi maklumat perjawatan, pemohon dapat menentukan pilihan sama ada Tapisan Keselamatan Kasar atau Halus.
+
+6.
+
+Adakah Pegawai Awam perlu lulus Tapisan Keselamatan sebelum disahkan dalam jawatan?
+
+ 
+
+Pegawai Awam hendaklah mengemukakan maklumat Tapisan Keselamatan dalam tempoh 30 hari bekerja mulai tarikh melaporkan diri bertugas dan memastikan telah lulus Tapisan Keselamatan sebaik-baiknya sebelum disahkan dalam perkhidmatan.
+
+Pegawai boleh disahkan jawatan terlebih dahulu, namun pegawai masih tertakluk untuk menjalani dan lulus Tapisan Keselamatan.
+
+7.
+
+Bagaimanakah ciri-ciri gambar yang perlu dimuat naik?
+
+ 
+
+Ciri-ciri gambar yang perlu dimuat naik hendaklah gambar yang bercirikan sopan dan jelas.
+
+8.
+
+Dimanakah pilihan permohonan bagi lantikan Personel MyStep?
+
+ 
+
+Pilih Lantikan Suruhanjaya Perkhidmatan Awam (SPA) atau Pentadbiran Kerajaan Negeri atau Pihak Berkuasa Tempatan (PBT).
+
+Klik butang Jawatan.
+
+Klik butang Personel MyStep.
+
+9.
+
+Bagaimanakah Tapisan Keselamatan bagi Contract of Service (COS) / Contract for Service (CFS) direkod?
+
+ 
+
+Bagi pegawai yang tidak mempunyai Buku Perkhidmatan, maklumat keputusan Tapisan Keselamatan perlu dimasukkan dalam fail peribadi masing-masing.
+
+10.
+
+Apakah Tapisan Keselamatan Khas?
+
+ 
+
+Tapisan Keselamatan Khas adalah tapisan yang perlu dilaksanakan oleh pegawai lantikan kontrak yang berkhidmat dengan pejabat Anggota Pentadbiran, contoh Setiausaha Politik, SUPOL dan sebagainya.
+
+11.
+
+Siapakah yang perlu mengisi Tapisan Jawatankuasa Keselamatan Berjadual (JKB)?
+
+ 
+
+Tapisan Keselamatan (JKB) hendaklah dilaksanakan oleh pegawai yang mengakses Rahsia dan Rahsia Besar. Termasuk semua gred yang terlibat dalam menguruskan Dokumen tersebut seperti penghantaran/pendaftaran/penyediaan.
+
+12.
+
+Adakah mereka yang telah menjalani Tapisan Keselamatan Halus perlu menjalani Tapisan Keselamatan Berjadual (JKB)?
+
+ 
+
+Sekiranya telah melaksanakan Tapisan Keselamatan Halus, pegawai tidak perlu menjalani Tapisan JKB dalam tempoh 5 tahun selepas mendapat keputusan Tapisan Keselamatan Halus.
+
+13.
+
+Apakah Tapisan Keselamatan Berjadual (JKB) perlu membawa pengadil semasa menjalani temu duga?
+
+ 
+
+Ya, Tapisan Keselamatan JKB perlu pengadil peribadi sebagaimana keperluan Tapisan Keselamatan Halus.
+
+14.
+
+Bilakah Tapisan Keselamatan Semula dilaksanakan?
+
+ 
+
+Berdasarkan Pekeliling Am Bilangan 5 Tahun 2021, semua penjawat awam perlu memohon Tapisan Keselamatan semula selepas 5 tahun mendapat keputusan Tapisan Keselamatan kali pertama.
+
+15.
+
+Adakah staf vendor perlu menjalani Tapisan Keselamatan?
+
+ 
+
+Setiap staf vendor yang berurusan dengan Kerajaan perlu menjalani Tapisan Keselamatan.
+
+ 
+
+16.
+
+Apakah kaedah permohonan Tapisan Keselamatan kali pertama bagi pihak vendor?
+
+ 
+
+Permohonan melalui sistem e-vetting dilaman web www.evetting.cgso.gov.my dengan mendaftar akaun pemohon syarikat dan memilih borang lantikan vendor/kontraktor.
+
+17.
+
+Bagaimanakah jika keputusan Tapisan Keselamatan bagi vendor yang didapati gagal Tapisan Keselamatan?
+
+ 
+
+Pihak pengurusan berhak untuk menamatkan perkhidmatan dengan serta-merta. Sekiranya pihak pengurusan ingin mendapatkan pandangan dan khidmat nasihat, pihak pengurusan boleh berhubung dengan Ibu Pejabat CGSO.
+
+18.
+
+Adakah keperluan bagi pegawai yang akan bersara dalam masa terdekat untuk menjalani Tapisan Keselamatan?
+
+ 
+
+Jika seseorang pegawai akan bersara, keperluan untuk menjalani semula Tapisan Keselamatan adalah dalam tempoh 5 tahun sebelum tarikh bersara atau mengikut keperluan semasa oleh Ketua Jabatan. Walau bagaimanapun, pegawai yang akan bersara akan menjalani Tapisan Keutuhan.
+
+19.
+
+Adakah tapisan ini perlu direkod dalam Buku Rekod Perkhidmatan?
+
+ 
+
+Ya, keputusan Tapisan Keselamatan hendaklah dicatitkan dalam Buku Rekod Perkhidmatan, pegawai hendaklah menjalani Tapisan Keselamatan semula dan perlu direkodkan.
+
+20.
+
+Apakah tindakan diambil kepada pegawai yang gagal Tapisan Keselamatan?
+
+ 
+
+Pegawai yang gagal dalam Tapisan Keselamatan akan ditetapkan sebagai penama berekod. Ketua Jabatan perlu merujuk kepada pejabat CGSO untuk mengambil tindakan selanjutnya.
+
+21.
+
+Perlukan Anggota Polis dan Tentera melaksanakan Tapisan Keselamatan?
+
+ 
+
+Tidak, Anggota Polis dan Tentera perlu menjalani tapisan di Jabatan masing-masing seperti yang ditetapkan.
+
+22.
+
+Bagaimanakah jika terdapat persoalan berkaitan sistem seperti pengemaskinian dan sebagainya?
+
+ 
+
+Sebarang pertanyaan lanjut berkaitan pengemaskinian data boleh dikemukakan kepada Helpdesk e-vetting melalui e-mel bkps@cgso.gov.my.
+
+23.
+
+Apakah talian hotline CGSO?
+
+ 
+
+Talian Hotline CGSO: 03-8872 6012
+
+
+
+
+
+Soalan Lazim Suruhanjaya Bebas Tatakelakuan Polis (IPCC)
+PENGENALAN IPCC
+
+
+1. APA ITU SURUHANJAYA BEBAS TATAKELAKUAN POLIS (IPCC)?
+
+
+IPCC merupakan sebuah Badan Berkanun Persekutuan yang ditubuhkan sebagai badan
+pemantau bebas tatakelakuan polis di bawah Akta Suruhanjaya Bebas Tatakelakuan Polis
+2022 [Akta 839] bertujuan untuk menggalakkan integriti, mengadakan mekanisme aduan
+dan siasatan bagi penanganan salah laku serta mengesyorkan penambahbaikan kebajikan
+anggota pasukan polis.
+
+
+
+2. ADAKAH IPCC MERUPAKAN JABATAN DI BAWAH PDRM?
+
+
+Tidak. IPCC merupakan suruhanjaya bebas dan tidak diletakkan di bawah mana-mana
+agensi/ jabatan penguatkuasaan.
+
+
+3. APAKAH CONTOH SALAH LAKU ANGGOTA PASUKAN POLIS YANG DILAPORKAN
+KEPADA IPCC?
+
+
+• Rasuah
+Contoh : Memberi / Menerima Rasuah
+• Jenayah
+Contoh : Kekerasan, Dadah, Komersial, Seksual
+• Integriti
+Contoh : Salah guna kuasa, Tidak menjalankan siasatan, Siasatan tidak telus, Tingkah
+laku / Sikap
+
+
+4. APAKAH WAKTU OPERASI IPCC?
+
+
+Isnin hingga Jumaat :
+8.30 pagi – 4.30 petang
+
+Waktu Rehat:
+Isnin hingga Khamis : 1.00 petang – 2.00 petang
+Jumaat : 12.15 tengah hari – 2.45 petang
+**kecuali cuti umum
+
+PROSES PENGURUSAN ADUAN
+
+
+5. BAGAIMANAKAH CARA-CARA MEMBUAT ADUAN SALAH LAKU ANGGOTA PASUKAN
+POLIS KEPADA IPCC?
+
+
+Menurut seksyen 24(1) Akta 839, semua aduan hendaklah dibuat secara bertulis iaitu
+melalui surat atau e-mel dan dihantar kepada Suruhanjaya melalui mana-mana saluran
+berikut:
+
+
+a. E-mel kepada aduan.ipcc@moha.gov.my
+b. Pos atau hadir sendiri ke alamat berikut:
+Suruhanjaya Bebas Tatakelakuan Polis
+Aras 7, Setia Perkasa 7,
+Kompleks Setia Perkasa, 62546 Putrajaya.
+
+
+6. APAKAH MAKLUMAT YANG DIPERLUKAN SEMASA MENGEMUKAKAN ADUAN KEPADA
+IPCC?
+
+
+Menurut seksyen 24(2), Akta 839 aduan hendaklah mengandungi butiran berikut:
+a. Butiran pengadu:
+• Nama pengadu;
+• No. Kad Pengenalan/ No. Pasport; dan
+• Medium perhubungan (No. Telefon/ Alamat e-mel / Alamat surat-menyurat).
+
+
+b. Apa-apa butiran anggota pasukan polis yang boleh dikenal pasti seperti:
+• Nama pegawai yang diadukan;
+• Jawatan/ pangkat;
+• Tempat bertugas; dan
+• Suatu perihalan / apa-apa butiran lain bagi membolehkannya dikenal pasti.
+
+
+c. Butiran salah laku:
+• Jenis salah laku;
+• Tarikh, masa dan lokasi salah laku;
+• Orang yang terjejas; dan
+• Salinan laporan polis, foto, video atau dokumen berkaitan yang difikirkan perlu.
+Sekiranya pengadu tidak mengemukakan butiran di atas, aduan tidak dapat
+dipertimbangkan untuk tindakan lanjut.
+
+
+7. APAKAH PROSES TERHADAP ADUAN YANG DITERIMA OLEH IPCC?
+
+
+a. Memastikan setiap aduan yang diterima mempunyai butiran yang lengkap dan
+didaftarkan untuk tindakan selanjutnya.
+
+
+b. Membawa aduan ke Mesyuarat Jawatankuasa Aduan (JKA) bagi menentukan
+klasifikasi aduan salah laku yang diterima dan diambil tindakan seperti berikut:
+i. Siasatan penuh oleh IPCC
+ii. Merujuk aduan kepada Pihak Berkuasa Berkaitan
+iii. Tiada tindakan lanjut (tidak memenuhi butiran seperti di para 6)
+c. Mendapatkan status aduan daripada Pihak Berkuasa Berkaitan secara berkala.
+d. Memaklumkan tindakan/ keputusan siasatan kepada pengadu melalui e-mel/ surat.
+
+
+8. BERAPA LAMA PROSES YANG AKAN DIAMBIL OLEH IPCC TERHADAP SESUATU
+ADUAN?
+
+
+Proses yang diambil ke atas sesuatu aduan bergantung kepada kompleksiti aduan dan
+proses siasatan.
+
+
+UMUM
+
+
+9. ADAKAH SAYA BOLEH MEMBUAT ADUAN BAGI PIHAK ORANG LAIN?
+
+
+Ya. Pengadu boleh membuat aduan bagi pihak orang lain/ orang yang terjejas dengan
+memberi butiran lengkap secara bertulis.
+
+
+10.ADAKAH IPCC MEMPUNYAI KUASA PENYIASATAN?
+
+
+Ya. IPCC mempunyai kuasa untuk memeriksa orang dan kuasa untuk memperoleh dokumen
+bagi membantu siasatan.
+
+
+11.APAKAH TINDAKAN IPCC TERHADAP ANGGOTA PASUKAN POLIS YANG TERBUKTI
+MELAKUKAN SALAH LAKU?
+
+
+IPCC akan mengesyorkan tindakan tatatertib kepada Suruhanjaya Pasukan Polis selaras
+dengan Seksyen 30, Akta 839.
+
+
+12.BAGAIMANA IPCC MEMBERI PERLINDUNGAN KEPADA PEMBERI MAKLUMAT
+BERKAITAN ADUAN DAN SIASATAN?
+
+
+IPCC boleh membuat apa-apa perkiraan dengan pihak berkuasa berkaitan sebagaimana
+perlu bagi melindungi keselamatan mana-mana orang atau melindungi mana-mana orang
+daripada ditakut-takutkan atau diganggu.
+
+
+13.APAKAH KESAN TERHADAP PENGADU YANG MENGEMUKAKAN ADUAN/ MAKLUMAT
+PALSU?
+
+
+Menurut Seksyen 34, Akta 839, pengadu yang mengemukakan aduan/ maklumat palsu
+merupakan satu kesalahan dan apabila disabitkan boleh dipenjarakan selama tempoh tidak
+melebihi lima (5) tahun atau didenda tidak melebihi RM20,000 atau kedua-duanya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
