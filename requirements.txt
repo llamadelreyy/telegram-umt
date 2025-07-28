@@ -2,3 +2,6 @@ python-telegram-bot
 python-dotenv
 requests
 nest_asyncio
+beautifulsoup4>=4.12.3
+lxml>=5.3.0
+html2text>=2024.2.26
